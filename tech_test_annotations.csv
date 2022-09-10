@@ -1,0 +1,1165 @@
+sentence,span,sub_span,label
+django postgresql redis,django,,LABEL NOT PRESENT
+django postgresql redis,postgresql,,PostgreSQL
+django postgresql redis,redis,,LABEL NOT PRESENT
+django postgresql redis,django,,LABEL NOT PRESENT
+django postgresql redis,postgresql,,PostgreSQL
+django postgresql redis,redis,,LABEL NOT PRESENT
+As part of our tech team you will build software to help our customers combat one of the biggest problems of our society: food waste .,build software,,computer engineering
+As part of our tech team you will build software to help our customers combat one of the biggest problems of our society: food waste .,help our customers,,assist customers
+With this goal in mind you will build and expand our predictive analytics platform which is already changing the way large food service providers manage their operations .,build and expand our predictive analytics platform,build our predictive analytics platform,UNDERSPECIFIED
+With this goal in mind you will build and expand our predictive analytics platform which is already changing the way large food service providers manage their operations .,build and expand our predictive analytics platform,expand our predictive analytics platform,UNDERSPECIFIED
+You will work with a tightly knit team of talented developers in the fields of frontend development machine learning and data engineering .,work with a tightly knit team,,LABEL NOT PRESENT
+As a backend engineer you're part of the team that lays the foundation to our solution: We interact with different kinds of data sources and sinks such as enterprise resource planning ( ERP ) and point-of-sales ( POS ) systems .,enterprise resource planning ( ERP ),,manage standard enterprise resource planning system
+As a backend engineer you're part of the team that lays the foundation to our solution: We interact with different kinds of data sources and sinks such as enterprise resource planning ( ERP ) and point-of-sales ( POS ) systems .,point-of-sales ( POS ),,LABEL NOT PRESENT
+Identify problems run experiments and deploy promising solutions to production .,Identify problems,,identify problems
+Identify problems run experiments and deploy promising solutions to production .,run experiments,,UNDERSPECIFIED
+Identify problems run experiments and deploy promising solutions to production .,deploy promising solutions to production .,,LABEL NOT PRESENT
+Develop interfaces to ERP and POS software providers and work on ETL pipelines to integrate our customers data bases .,Develop interfaces to ERP and POS software providers,,LABEL NOT PRESENT
+Develop interfaces to ERP and POS software providers and work on ETL pipelines to integrate our customers data bases .,work on ETL pipelines,,"data extraction, transformation and loading tools"
+Develop interfaces to ERP and POS software providers and work on ETL pipelines to integrate our customers data bases .,integrate our customers data bases .,,use databases
+Develop interfaces to ERP and POS software providers and work on ETL pipelines to integrate our customers data bases .,ETL,,"data extraction, transformation and loading tools"
+Work closely together with our machine learning - and frontend developers .,Work closely together with our machine learning - and frontend developers .,Work closely together with our machine learning developers,liaise with engineers
+Work closely together with our machine learning - and frontend developers .,Work closely together with our machine learning - and frontend developers .,work closely together with our frontend developers,liaise with engineers
+We're a small team and effective communication and documentation is key .,effective communication,,communication
+We're a small team and effective communication and documentation is key .,documentation,,provide documentation
+You have passion for writing software with emphasis on quality testability and automation .,writing software with emphasis on quality testability and automation .,writing software with emphasis on quality,LABEL NOT PRESENT
+You have passion for writing software with emphasis on quality testability and automation .,writing software with emphasis on quality testability and automation .,writing software with emphasis on testability,develop automated software tests
+You have passion for writing software with emphasis on quality testability and automation .,writing software with emphasis on quality testability and automation .,writing software with emphasis on automation .,develop automated software tests
+You have several years of experience of backend development preferably using Python .,backend development,,LABEL NOT PRESENT
+You have several years of experience of backend development preferably using Python .,Python .,,Python (computer programming)
+You have experience with: Linux administration Docker Ansible Git,Linux administration,,LABEL NOT PRESENT
+You have experience with: Linux administration Docker Ansible Git,Docker,,LABEL NOT PRESENT
+You have experience with: Linux administration Docker Ansible Git,Ansible,,Ansible
+You have experience with: Linux administration Docker Ansible Git,Git,,LABEL NOT PRESENT
+Nice-to-haves: Pandas Celery Django Channels Django REST Framework Redis Nginx GitLab CI PostgreSQL,Pandas,,LABEL NOT PRESENT
+Nice-to-haves: Pandas Celery Django Channels Django REST Framework Redis Nginx GitLab CI PostgreSQL,Celery,,LABEL NOT PRESENT
+Nice-to-haves: Pandas Celery Django Channels Django REST Framework Redis Nginx GitLab CI PostgreSQL,Django Channels,,LABEL NOT PRESENT
+Nice-to-haves: Pandas Celery Django Channels Django REST Framework Redis Nginx GitLab CI PostgreSQL,Django REST Framework,,LABEL NOT PRESENT
+Nice-to-haves: Pandas Celery Django Channels Django REST Framework Redis Nginx GitLab CI PostgreSQL,Redis,,LABEL NOT PRESENT
+Nice-to-haves: Pandas Celery Django Channels Django REST Framework Redis Nginx GitLab CI PostgreSQL,Nginx,,LABEL NOT PRESENT
+Nice-to-haves: Pandas Celery Django Channels Django REST Framework Redis Nginx GitLab CI PostgreSQL,GitLab CI,,LABEL NOT PRESENT
+Nice-to-haves: Pandas Celery Django Channels Django REST Framework Redis Nginx GitLab CI PostgreSQL,PostgreSQL,,PostgreSQL
+You master English on level C1 .,English on level C1 .,,English
+You are an honest trustworthy person that communicates openly .,honest,,demonstrate trustworthiness
+You are an honest trustworthy person that communicates openly .,trustworthy,,demonstrate trustworthiness
+You are an honest trustworthy person that communicates openly .,communicates openly .,,maintain internal communication systems
+Industry: Cybersecurity Data & Analytics Digital Marketing,Cybersecurity,,cyber security
+Industry: Cybersecurity Data & Analytics Digital Marketing,Data & Analytics,Data,manage data
+Industry: Cybersecurity Data & Analytics Digital Marketing,Data & Analytics,Analytics,web analytics
+Industry: Cybersecurity Data & Analytics Digital Marketing,Digital Marketing,,digital marketing techniques
+powerbi dax cloud data-modeling azure-analysis-services,powerbi,,LABEL NOT PRESENT
+powerbi dax cloud data-modeling azure-analysis-services,dax,,LABEL NOT PRESENT
+powerbi dax cloud data-modeling azure-analysis-services,cloud,,cloud technologies
+powerbi dax cloud data-modeling azure-analysis-services,data-modeling,,create data models
+powerbi dax cloud data-modeling azure-analysis-services,azure-analysis-services,,LABEL NOT PRESENT
+Cybersecurity Data & Analytics Digital Marketing,Cybersecurity,,cyber security
+Cybersecurity Data & Analytics Digital Marketing,Data & Analytics,Data,manage data
+Cybersecurity Data & Analytics Digital Marketing,Data & Analytics,Analytics,web analytics
+Cybersecurity Data & Analytics Digital Marketing,Digital Marketing,,digital marketing techniques
+powerbi dax cloud data-modeling azure-analysis-services,powerbi,,LABEL NOT PRESENT
+powerbi dax cloud data-modeling azure-analysis-services,dax,,LABEL NOT PRESENT
+powerbi dax cloud data-modeling azure-analysis-services,cloud,,cloud technologies
+powerbi dax cloud data-modeling azure-analysis-services,data-modeling,,create data models
+powerbi dax cloud data-modeling azure-analysis-services,azure-analysis-services,,LABEL NOT PRESENT
+In this role you will be responsible for building front-end layer of our data any analytics solutions .,building front-end layer,,implement front-end website design
+Design and build front-end / BI layer of our data and analytics solutions - Power BI reports DAX queries Azure Analysis Services models .,Power BI reports,,LABEL NOT PRESENT
+Design and build front-end / BI layer of our data and analytics solutions - Power BI reports DAX queries Azure Analysis Services models .,DAX queries,,LABEL NOT PRESENT
+Design and build front-end / BI layer of our data and analytics solutions - Power BI reports DAX queries Azure Analysis Services models .,Design and build front-end / BI layer,Design front-end layer,LABEL NOT PRESENT
+Design and build front-end / BI layer of our data and analytics solutions - Power BI reports DAX queries Azure Analysis Services models .,Design and build front-end / BI layer,Design BI layer,LABEL NOT PRESENT
+Design and build front-end / BI layer of our data and analytics solutions - Power BI reports DAX queries Azure Analysis Services models .,Design and build front-end / BI layer,build front-end layer,implement front-end website design
+Design and build front-end / BI layer of our data and analytics solutions - Power BI reports DAX queries Azure Analysis Services models .,Design and build front-end / BI layer,build BI layer,LABEL NOT PRESENT
+Design and build front-end / BI layer of our data and analytics solutions - Power BI reports DAX queries Azure Analysis Services models .,Azure Analysis Services models .,,LABEL NOT PRESENT
+Troubleshoot issues recommend optimizations tune solution / reports for better performance .,Troubleshoot issues,,solve ICT system problems
+Troubleshoot issues recommend optimizations tune solution / reports for better performance .,recommend optimizations,,recommend product improvements
+Troubleshoot issues recommend optimizations tune solution / reports for better performance .,tune solution / reports for better performance .,,LABEL NOT PRESENT
+Participate in scrum meetings sprint planning code reviews etc .,scrum meetings,,attend meetings
+Participate in scrum meetings sprint planning code reviews etc .,sprint planning,,LABEL NOT PRESENT
+Participate in scrum meetings sprint planning code reviews etc .,code reviews,,conduct ICT code review
+Power BI,Power BI,,LABEL NOT PRESENT
+DAX,DAX,,UNDERSPECIFIED
+Data Modeling,Data Modeling,,create data models
+Cloud,Cloud,,cloud technologies
+DevOps,DevOps,,DevOps
+Agile,Agile,,Agile development
+English proficiency and at least a Bachelor's degree .,Bachelor's degree .,,LABEL NOT PRESENT
+Azure Analysis Services,Azure Analysis Services,,LABEL NOT PRESENT
+Industry: Agile Software Development Financial Technology,Agile Software Development,,Agile development
+Industry: Agile Software Development Financial Technology,Financial Technology,,financial engineering
+agile architecture,agile,,UNDERSPECIFIED
+agile architecture,architecture,,software architecture models
+Agile Software Development Financial Technology,Agile Software Development,,Agile development
+Agile Software Development Financial Technology,Financial Technology,,financial engineering
+agile architecture,agile,,UNDERSPECIFIED
+agile architecture,architecture,,software architecture models
+Are you fond of making the right decisions early enough in the project?,making the right decisions,,make decisions
+Responsible for definition & communication of “fit for purpose” technical and architectural vision for the ART based on functional and non-functional requirements and also in support for new business capabilities,definition & communication of “fit for purpose”,,UNDERSPECIFIED
+Responsible for describing a solution architecture with the most important components and their interfaces,describing a solution architecture,,define software architecture
+Takes care of aligning the teams around the technical orientation and connects with the teams in order to evaluate the different technical alternatives and work out the solution,aligning the teams around the technical orientation,,LABEL NOT PRESENT
+Takes care of aligning the teams around the technical orientation and connects with the teams in order to evaluate the different technical alternatives and work out the solution,connects with the teams,,liaise with colleagues
+Takes care of aligning the teams around the technical orientation and connects with the teams in order to evaluate the different technical alternatives and work out the solution,evaluate the different technical alternatives,,LABEL NOT PRESENT
+Participates actively in continuous exploration and innovation,continuous exploration and innovation,continuous exploration,create a work atmosphere of continuous improvement
+Participates actively in continuous exploration and innovation,continuous exploration and innovation,continuous innovation,seek innovation in current practices
+The System Architect can work in Delivery to business ( D2B ) or Service to deliver ( S2D ) context,Delivery to business ( D2B ),,UNDERSPECIFIED
+The System Architect can work in Delivery to business ( D2B ) or Service to deliver ( S2D ) context,work in Delivery to business ( D2B ) or Service to deliver ( S2D ) context,work in Delivery to business ( D2B ) context,UNDERSPECIFIED
+The System Architect can work in Delivery to business ( D2B ) or Service to deliver ( S2D ) context,work in Delivery to business ( D2B ) or Service to deliver ( S2D ) context,work in Service to deliver ( S2D ) context,UNDERSPECIFIED
+The System Architect can work in Delivery to business ( D2B ) or Service to deliver ( S2D ) context,Service to deliver ( S2D ),,UNDERSPECIFIED
+In D2B context the System Architect is accountable for creating business enabler ART epics guided by the domain architect and based on requirements of the product manager .,creating business enabler ART epics,,LABEL NOT PRESENT
+At least 5 years in a role focused on software/system design and architecture in a complex environment,software/system design and architecture,software design,industrial software
+At least 5 years in a role focused on software/system design and architecture in a complex environment,software/system design and architecture,software architecture,define software architecture
+At least 5 years in a role focused on software/system design and architecture in a complex environment,software/system design and architecture,system design,design information system
+At least 5 years in a role focused on software/system design and architecture in a complex environment,software/system design and architecture,system architecture,define software architecture
+Architectural skills incl.: Design Modelling Documentation; Solution architecture,Design,,LABEL NOT PRESENT
+Architectural skills incl.: Design Modelling Documentation; Solution architecture,Modelling,,UNDERSPECIFIED
+Architectural skills incl.: Design Modelling Documentation; Solution architecture,Documentation;,,provide documentation
+Architectural skills incl.: Design Modelling Documentation; Solution architecture,Solution architecture,,software architecture models
+Experience in one or more major programming languages,programming languages,,computer programming
+Experience in analyzing strategic objectives and defining specific goals .,analyzing strategic objectives,,analyse business objectives
+Experience in analyzing strategic objectives and defining specific goals .,defining specific goals .,,LABEL NOT PRESENT
+IT or Engineering Bachelor / Master degree is a highly recommended,IT or Engineering Bachelor / Master degree,,LABEL NOT PRESENT
+Scaled Agile ( SAFe ) expertise is big plus,Scaled Agile ( SAFe ),,Agile development
+Problem analysis & judgement: Good analytical and problem-solving skills,analytical and problem-solving skills,analytical skills,think analytically
+Problem analysis & judgement: Good analytical and problem-solving skills,analytical and problem-solving skills,problem-solving skills,solve problems
+Networking Communication and Persuasion: Ability to persuade others build and maintain positive and trustworthy relationships on all organizational levels in the context of high-pressure and rapidly changing environment .,Networking,,build networks
+Networking Communication and Persuasion: Ability to persuade others build and maintain positive and trustworthy relationships on all organizational levels in the context of high-pressure and rapidly changing environment .,Communication,,communication
+Networking Communication and Persuasion: Ability to persuade others build and maintain positive and trustworthy relationships on all organizational levels in the context of high-pressure and rapidly changing environment .,Persuasion:,,present arguments persuasively
+Networking Communication and Persuasion: Ability to persuade others build and maintain positive and trustworthy relationships on all organizational levels in the context of high-pressure and rapidly changing environment .,Ability to persuade others,,present arguments persuasively
+Networking Communication and Persuasion: Ability to persuade others build and maintain positive and trustworthy relationships on all organizational levels in the context of high-pressure and rapidly changing environment .,build and maintain positive and trustworthy relationships,build positive and trustworthy relationships,LABEL NOT PRESENT
+Networking Communication and Persuasion: Ability to persuade others build and maintain positive and trustworthy relationships on all organizational levels in the context of high-pressure and rapidly changing environment .,build and maintain positive and trustworthy relationships,maintain positive and trustworthy relationships,LABEL NOT PRESENT
+Teamwork: Able to share knowledge engage in discussions and group decision-making .,share knowledge,,LABEL NOT PRESENT
+Teamwork: Able to share knowledge engage in discussions and group decision-making .,engage in discussions and group decision-making .,engage in discussions,engage in debates
+Teamwork: Able to share knowledge engage in discussions and group decision-making .,engage in discussions and group decision-making .,engage in group decision-making .,make decisions
+Presentation skills;,Presentation skills;,,LABEL NOT PRESENT
+Assertive and pro-active;,Assertive,,assertiveness
+Assertive and pro-active;,pro-active;,,think proactively
+Personal efficiency;,Personal efficiency;,,work efficiently
+Industry: Financial Technology,Financial Technology,,financial engineering
+c# f# typescript,c#,,C#
+c# f# typescript,f#,,LABEL NOT PRESENT
+c# f# typescript,typescript,,TypeScript
+Financial Technology,Financial Technology,,LABEL NOT PRESENT
+c# f# typescript,c#,,C#
+c# f# typescript,f#,,LABEL NOT PRESENT
+c# f# typescript,typescript,,TypeScript
+You'll use modern workflows and tooling .,modern workflows and tooling .,modern workflows,UNDERSPECIFIED
+You'll use modern workflows and tooling .,modern workflows and tooling .,modern tooling,UNDERSPECIFIED
+You'll be encouraged to maintain quality and be pushed past your own expectations .,maintain quality,,manage quality
+You'll also get the opportunity to work with AWS infrastructure and get to grips with producing cloud native software .,work with AWS infrastructure,,LABEL NOT PRESENT
+You'll also get the opportunity to work with AWS infrastructure and get to grips with producing cloud native software .,producing cloud native software .,,develop with cloud services
+We believe in continuous integration and automated testing .,continuous integration,,LABEL NOT PRESENT
+We believe in continuous integration and automated testing .,automated testing .,,develop automated software tests
+We believe in domain modelling and ubiquitous language .,domain modelling,,LABEL NOT PRESENT
+We believe in domain modelling and ubiquitous language .,ubiquitous language .,,UNDERSPECIFIED
+We believe in logging monitoring and that if you build it you run it .,logging,,logging
+We believe in serverless containerisation and dev/prod environment parity .,serverless containerisation,,LABEL NOT PRESENT
+We believe in serverless containerisation and dev/prod environment parity .,dev/prod environment parity .,,LABEL NOT PRESENT
+We believe in experimentation continuous improvement and learning from failure .,experimentation,,think creatively
+At the moment it’s C# F# and TypeScript depending on the needs of the project but you don’t need to know or use all of those one or more will do .,C#,,C#
+At the moment it’s C# F# and TypeScript depending on the needs of the project but you don’t need to know or use all of those one or more will do .,F#,,LABEL NOT PRESENT
+At the moment it’s C# F# and TypeScript depending on the needs of the project but you don’t need to know or use all of those one or more will do .,TypeScript,,TypeScript
+using the serverless framework,serverless framework,,develop with cloud services
+equally are effusive about functional programming .,functional programming .,,use functional programming
+We like to experiment with test frameworks and our current suite includes Cypress Jest Nunit SpecFlow Expecto FsCheck & Canopy .,Cypress,,LABEL NOT PRESENT
+We like to experiment with test frameworks and our current suite includes Cypress Jest Nunit SpecFlow Expecto FsCheck & Canopy .,Jest,,LABEL NOT PRESENT
+We like to experiment with test frameworks and our current suite includes Cypress Jest Nunit SpecFlow Expecto FsCheck & Canopy .,Nunit,,LABEL NOT PRESENT
+We like to experiment with test frameworks and our current suite includes Cypress Jest Nunit SpecFlow Expecto FsCheck & Canopy .,SpecFlow,,LABEL NOT PRESENT
+We like to experiment with test frameworks and our current suite includes Cypress Jest Nunit SpecFlow Expecto FsCheck & Canopy .,Expecto,,LABEL NOT PRESENT
+We like to experiment with test frameworks and our current suite includes Cypress Jest Nunit SpecFlow Expecto FsCheck & Canopy .,FsCheck,,LABEL NOT PRESENT
+We like to experiment with test frameworks and our current suite includes Cypress Jest Nunit SpecFlow Expecto FsCheck & Canopy .,Canopy .,,LABEL NOT PRESENT
+We take advantage of cloud services provided by AWS including but not limited to functions as a service hosting messaging relational and non-relational databases .,functions as a service,,LABEL NOT PRESENT
+We take advantage of cloud services provided by AWS including but not limited to functions as a service hosting messaging relational and non-relational databases .,hosting,,LABEL NOT PRESENT
+We take advantage of cloud services provided by AWS including but not limited to functions as a service hosting messaging relational and non-relational databases .,messaging,,LABEL NOT PRESENT
+We take advantage of cloud services provided by AWS including but not limited to functions as a service hosting messaging relational and non-relational databases .,relational and non-relational databases .,,LABEL NOT PRESENT
+We rely on Loggly to trace application behaviour and often to log business metrics .,Loggly,,LABEL NOT PRESENT
+In-depth knowledge and experience of C# F# and/or Typescript .,C#,,C#
+In-depth knowledge and experience of C# F# and/or Typescript .,F#,,LABEL NOT PRESENT
+In-depth knowledge and experience of C# F# and/or Typescript .,Typescript .,,TypeScript
+You’re a problem solver who's curious about new technology .,problem solver,,solve problems
+You’re a problem solver who's curious about new technology .,curious about new technology .,,emergent technologies
+You're aligned with our principles and interested in learning more about functional programming .,functional programming .,,use functional programming
+You're aware of the 12-Factor App approach and want to build cloud,build cloud,,design cloud architecture
+You're aware of the 12-Factor App approach and want to build cloud,12-Factor App approach,,LABEL NOT PRESENT
+You're someone who takes ownership and who tries to learn as much as possible .,takes ownership,,assume responsibility
+You're someone who takes ownership and who tries to learn as much as possible .,learn as much as possible .,,demonstrate willingness to learn
+You're both a good listener and able to explain concepts to others .,good listener,,listen actively
+You're both a good listener and able to explain concepts to others .,able to explain concepts,,LABEL NOT PRESENT
+You're committed to improving yourself .,committed to improving yourself .,,personal development
+You're able to demonstrate interest in technologies that are beyond the scope of your daily workflow .,demonstrate interest in technologies that are beyond the scope of your daily workflow .,,demonstrate curiosity
+You're lazy you don't like boring repetitive tasks and you like to outsource your labour to the compiler .,lazy,,UNDERSPECIFIED
+You're lazy you don't like boring repetitive tasks and you like to outsource your labour to the compiler .,don't like boring repetitive tasks,,LABEL NOT PRESENT
+You're lazy you don't like boring repetitive tasks and you like to outsource your labour to the compiler .,outsource your labour to the compiler .,,LABEL NOT PRESENT
+You won't be expected to have deep knowledge of our stack but you will be expected to help us make forward strides by applying yourself to learning .,applying yourself to learning .,,demonstrate willingness to learn
+Above all you’re a pragmatist who’s willing to challenge us as well as yourself .,pragmatist,,LABEL NOT PRESENT
+qa testing cypress mocha.js chai,qa,,quality assurance procedures
+qa testing cypress mocha.js chai,testing,,LABEL NOT PRESENT
+qa testing cypress mocha.js chai,cypress,,LABEL NOT PRESENT
+qa testing cypress mocha.js chai,mocha.js,,LABEL NOT PRESENT
+qa testing cypress mocha.js chai,chai,,LABEL NOT PRESENT
+qa testing cypress mocha.js chai,qa,,quality assurance procedures
+qa testing cypress mocha.js chai,testing,,LABEL NOT PRESENT
+qa testing cypress mocha.js chai,cypress,,LABEL NOT PRESENT
+qa testing cypress mocha.js chai,mocha.js,,LABEL NOT PRESENT
+qa testing cypress mocha.js chai,chai,,LABEL NOT PRESENT
+Your task at <ORGANIZATION> will be to introduce and implement the newest standards and testing solutions/automation to our Technical team .,introduce and implement the newest standards and testing solutions/automation,introduce the newest standards and testing solutions/automation,tools for ICT test automation
+Your task at <ORGANIZATION> will be to introduce and implement the newest standards and testing solutions/automation to our Technical team .,introduce and implement the newest standards and testing solutions/automation,implement the newest standards and testing solutions/automation,LABEL NOT PRESENT
+As a QA tester you will be involved in product creation at every step to make it testable .,product creation,,develop new products
+you will build and provide access to test environments and new features for our employees our investors and users serving as a go-to source of information on what is being released .,build and provide access to test environments and new features,build test environments,develop test procedures
+you will build and provide access to test environments and new features for our employees our investors and users serving as a go-to source of information on what is being released .,build and provide access to test environments and new features,build new features,LABEL NOT PRESENT
+you will build and provide access to test environments and new features for our employees our investors and users serving as a go-to source of information on what is being released .,build and provide access to test environments and new features,provide access to test environments,LABEL NOT PRESENT
+you will build and provide access to test environments and new features for our employees our investors and users serving as a go-to source of information on what is being released .,build and provide access to test environments and new features,provide access to new features,LABEL NOT PRESENT
+You will be responsible for a successful product launch together with engineers and developers .,responsible for a successful product launch,,perform product planning
+You will bring expert knowledge to future QA team members .,bring expert knowledge,,UNDERSPECIFIED
+You will define testing standards and strategies .,define testing standards and strategies .,degines testing standards,develop test procedures
+You will define testing standards and strategies .,define testing standards and strategies .,define testing strategies,develop ICT test suite
+You will create detailed comprehensive and well-structured test plans and test cases .,create detailed comprehensive and well-structured test plans and test cases .,create detailed comprehensive and well-structured test plans,develop test procedures
+You will create detailed comprehensive and well-structured test plans and test cases .,create detailed comprehensive and well-structured test plans and test cases .,create detailed comprehensive and well-structured test cases,LABEL NOT PRESENT
+You will design develop and execute automatic tests .,design develop and execute automatic tests .,design automatic tests,develop automated software tests
+You will design develop and execute automatic tests .,design develop and execute automatic tests .,develop automatic tests,develop automated software tests
+You will design develop and execute automatic tests .,design develop and execute automatic tests .,execute automatic tests,execute software tests
+You will conduct exploratory/manual tests .,conduct exploratory/manual tests .,,LABEL NOT PRESENT
+You will identify record document thoroughly and track bugs .,identify record document thoroughly and track bugs .,identify bugs thoroughly,identify problems
+You will identify record document thoroughly and track bugs .,identify record document thoroughly and track bugs .,record bugs thorougly,LABEL NOT PRESENT
+You will identify record document thoroughly and track bugs .,identify record document thoroughly and track bugs .,document bugs thoroughly,LABEL NOT PRESENT
+You will identify record document thoroughly and track bugs .,identify record document thoroughly and track bugs .,track bugs,LABEL NOT PRESENT
+You will work closely with the product team to make new features testable improve tickets and update product information .,work closely with the product team,,liaise with colleagues
+You will work closely with the product team to make new features testable improve tickets and update product information .,make new features testable,,develop automated software tests
+You will work closely with the product team to make new features testable improve tickets and update product information .,improve tickets,,monitor ticketing
+You will work closely with the product team to make new features testable improve tickets and update product information .,update product information .,,product data management
+You will facilitate test environments access to all company employees and external focus groups .,facilitate test environments access,,LABEL NOT PRESENT
+Experience in quality assurance preferably in the same industry .,quality assurance,,quality assurance methodologies
+Strong knowledge of software QA methodologies tools and processes .,software QA methodologies tools and processes .,software QA methodologies,LABEL NOT PRESENT
+Strong knowledge of software QA methodologies tools and processes .,software QA methodologies tools and processes .,software QA tools,LABEL NOT PRESENT
+Strong knowledge of software QA methodologies tools and processes .,software QA methodologies tools and processes .,software QA processes,quality assurance procedures
+Hands-on experience with automated testing tools .,automated testing tools .,,tools for ICT test automation
+( Cypress for frontend is a must have pytest for backend and truffle for Solidity is a good addition) .,Cypress,,LABEL NOT PRESENT
+( Cypress for frontend is a must have pytest for backend and truffle for Solidity is a good addition) .,pytest,,LABEL NOT PRESENT
+( Cypress for frontend is a must have pytest for backend and truffle for Solidity is a good addition) .,truffle,,LABEL NOT PRESENT
+( Cypress for frontend is a must have pytest for backend and truffle for Solidity is a good addition) .,Solidity,,Solidity
+Coding/scripting and basic DevOps skills to build test environments ( we use CircleCI Docker) .,DevOps,,DevOps
+Coding/scripting and basic DevOps skills to build test environments ( we use CircleCI Docker) .,CircleCI,,LABEL NOT PRESENT
+Coding/scripting and basic DevOps skills to build test environments ( we use CircleCI Docker) .,build test environments,,develop test procedures
+Coding/scripting and basic DevOps skills to build test environments ( we use CircleCI Docker) .,Docker),,LABEL NOT PRESENT
+Eagerness to work in an agile & energetic startup environment .,work in an agile & energetic startup environment .,work in an agile startup environment,Agile project management
+Eagerness to work in an agile & energetic startup environment .,work in an agile & energetic startup environment .,work in an energetic startup environment,LABEL NOT PRESENT
+Fluent English .,English .,,English
+Industry: Collaboration Tools Computer Software Open-Source,Collaboration Tools,,use online tools to collaborate
+Industry: Collaboration Tools Computer Software Open-Source,Computer Software,,LABEL NOT PRESENT
+Industry: Collaboration Tools Computer Software Open-Source,Open-Source,,Open source model
+testing qa automation software-quality automated-tests,testing,,test procedures
+testing qa automation software-quality automated-tests,qa,,quality assurance procedures
+testing qa automation software-quality automated-tests,automation,,automation technology
+testing qa automation software-quality automated-tests,software-quality,,LABEL NOT PRESENT
+testing qa automation software-quality automated-tests,automated-tests,,develop automated software tests
+Collaboration Tools Computer Software Open-Source,Collaboration Tools,,use online tools to collaborate
+Collaboration Tools Computer Software Open-Source,Computer Software,,LABEL NOT PRESENT
+Collaboration Tools Computer Software Open-Source,Open-Source,,Open source model
+testing qa automation software-quality automated-tests,testing,,test procedures
+testing qa automation software-quality automated-tests,qa,,quality assurance procedures
+testing qa automation software-quality automated-tests,automation,,automation technology
+testing qa automation software-quality automated-tests,software-quality,,LABEL NOT PRESENT
+testing qa automation software-quality automated-tests,automated-tests,,develop automated software tests
+Ensuring high quality for customer-specific software projects,Ensuring high quality for customer-specific software projects,,quality assurance procedures
+Analysis and risk assessment of customer requirements,Analysis and risk assessment,Analysis assessment,LABEL NOT PRESENT
+Analysis and risk assessment of customer requirements,Analysis and risk assessment,risk assessment,draw up risk assessment
+Creation maintenance execution and documentation of ( automated ) tests,Creation maintenance execution and documentation of ( automated ) tests,Creation of ( automated ) tests,develop automated software tests
+Creation maintenance execution and documentation of ( automated ) tests,Creation maintenance execution and documentation of ( automated ) tests,maintenance of ( automated ) tests,develop automated software tests
+Creation maintenance execution and documentation of ( automated ) tests,Creation maintenance execution and documentation of ( automated ) tests,execution of ( automated ) tests,develop automated software tests
+Creation maintenance execution and documentation of ( automated ) tests,Creation maintenance execution and documentation of ( automated ) tests,documentation of ( automated ) tests,LABEL NOT PRESENT
+Collaboration in project teams and communication with technical customer departments,Collaboration in project teams,,work in teams
+Collaboration in project teams and communication with technical customer departments,communication with technical customer departments,,apply technical communication skills
+Active support of our development and operations teams,Active support of our development and operations teams,Active support of our development teams,LABEL NOT PRESENT
+Active support of our development and operations teams,Active support of our development and operations teams,Active support of our operations teams,LABEL NOT PRESENT
+Creation analysis and processing of error reports,Creation analysis and processing of error reports,Creating of error reports,create incident reports
+Creation analysis and processing of error reports,Creation analysis and processing of error reports,analysis of error reports,analyse work-related written reports
+Creation analysis and processing of error reports,Creation analysis and processing of error reports,processing of error reports,process incident reports for prevention
+Study of computer science or comparable professional training and experience,computer science,,computer science
+Experience with agile approaches to software testing and development,testing and development,testing,LABEL NOT PRESENT
+Experience with agile approaches to software testing and development,testing and development,development,UNDERSPECIFIED
+Experience with agile approaches to software testing and development,agile approaches to software,,Agile development
+Knowledge of tools procedures and programming languages for test automation is required .,tools procedures and programming languages for test automation,tools for test automation,tools for ICT test automation
+Knowledge of tools procedures and programming languages for test automation is required .,tools procedures and programming languages for test automation,procedures for test automation,tools for ICT test automation
+Knowledge of tools procedures and programming languages for test automation is required .,tools procedures and programming languages for test automation,programming languages for test automation,tools for ICT test automation
+The same applies to your willingness to familiarize yourself with new technologies and to contribute innovations,familiarize yourself with new technologies,,LABEL NOT PRESENT
+The same applies to your willingness to familiarize yourself with new technologies and to contribute innovations,contribute innovations,,innovation processes
+Experienced handling and understanding of web-based applications APIs,handling and understanding of web-based applications APIs,handling web-based application APIs,use an application-specific interface
+Experienced handling and understanding of web-based applications APIs,handling and understanding of web-based applications APIs,understanding of web-based application APIs,use an application-specific interface
+A good eye for details user expectations and potential sources of error,good eye for details user expectations and potential sources of error,good eye for details,attend to detail
+A good eye for details user expectations and potential sources of error,good eye for details user expectations and potential sources of error,good eye for user expectations,meet expectations of target audience
+A good eye for details user expectations and potential sources of error,good eye for details user expectations and potential sources of error,good eye for potential sources of error,LABEL NOT PRESENT
+Structured and result-oriented way of working as well as willingness to learn joy of communication and independent cooperation,Structured and result-oriented way of working,Structured way of working,work in an organised manner
+Structured and result-oriented way of working as well as willingness to learn joy of communication and independent cooperation,Structured and result-oriented way of working,result-oriented way of working,LABEL NOT PRESENT
+Structured and result-oriented way of working as well as willingness to learn joy of communication and independent cooperation,willingness to learn,,demonstrate willingness to learn
+Structured and result-oriented way of working as well as willingness to learn joy of communication and independent cooperation,joy of communication,,communication
+Structured and result-oriented way of working as well as willingness to learn joy of communication and independent cooperation,independent cooperation,,LABEL NOT PRESENT
+Team skills social competence and a solid knowledge of German and English both spoken and written are a must,Team skills,,work in teams
+Team skills social competence and a solid knowledge of German and English both spoken and written are a must,German,,German
+Team skills social competence and a solid knowledge of German and English both spoken and written are a must,social competence,,work in teams
+Team skills social competence and a solid knowledge of German and English both spoken and written are a must,English,,English
+Industry: Financial Services,Financial Services,,offer financial services
+Financial Services,Financial Services,,offer financial services
+As an experienced member of our Software Engineering Group we look first and foremost for people who are passionate around solving business problems through innovation and engineering practices .,solving business problems,,propose ICT solutions to business problems
+As an experienced member of our Software Engineering Group we look first and foremost for people who are passionate around solving business problems through innovation and engineering practices .,innovation and engineering practices .,innovation practices,innovation processes
+As an experienced member of our Software Engineering Group we look first and foremost for people who are passionate around solving business problems through innovation and engineering practices .,innovation and engineering practices .,engineering practices,engineering principles
+You'll be required to apply your depth of knowledge and expertise to all aspects of the software development lifecycle as well as partner continuously with your many stakeholders on a daily basis to stay focused on common goals .,apply your depth of knowledge and expertise,apply your depth of knowledge,UNDERSPECIFIED
+You'll be required to apply your depth of knowledge and expertise to all aspects of the software development lifecycle as well as partner continuously with your many stakeholders on a daily basis to stay focused on common goals .,apply your depth of knowledge and expertise,apply your expertise,UNDERSPECIFIED
+You'll be required to apply your depth of knowledge and expertise to all aspects of the software development lifecycle as well as partner continuously with your many stakeholders on a daily basis to stay focused on common goals .,partner continuously with your many stakeholders,,manage relationships with stakeholders
+You'll be required to apply your depth of knowledge and expertise to all aspects of the software development lifecycle as well as partner continuously with your many stakeholders on a daily basis to stay focused on common goals .,stay focused on common goals .,,identify with the company's goals
+* BS/BA degree or equivalent experience,BS/BA degree,,LABEL NOT PRESENT
+* Expertise in application data and infrastructure architecture disciplines,application,,UNDERSPECIFIED
+* Expertise in application data and infrastructure architecture disciplines,data,,UNDERSPECIFIED
+* Expertise in application data and infrastructure architecture disciplines,infrastructure architecture disciplines,,ICT infrastructure
+* Advanced knowledge of architecture and design across all systems,architecture and design,architecture,information architecture
+* Advanced knowledge of architecture and design across all systems,architecture and design,design,LABEL NOT PRESENT
+* Proficiency in multiple modern programming languages,programming languages,,computer programming
+* Knowledge of industry-wide technology trends and best practices,industry-wide technology trends and best practices,industry-wide technology trends,monitor technology trends
+* Knowledge of industry-wide technology trends and best practices,industry-wide technology trends and best practices,industry-wide best practices,LABEL NOT PRESENT
+* Keen understanding of financial control and budget management,financial control,,control financial resources
+* Keen understanding of financial control and budget management,budget management,,manage budgets
+* Ability to work in large collaborative teams to achieve organizational goals,work in large collaborative teams,,work in teams
+* Ability to work in large collaborative teams to achieve organizational goals,achieve organizational goals,,meet commitments
+Passionate about building an innovative culture,building an innovative culture,,think innovately
+r java nosql,r,,R
+r java nosql,java,,Java (computer programming)
+r java nosql,nosql,,NoSQL
+r java nosql,r,,R
+r java nosql,java,,Java (computer programming)
+r java nosql,nosql,,NoSQL
+As an experienced member of our Software Engineering Group we look first and foremost for people who are passionate around solving business problems through innovation & engineering practices .,solving business problems,,propose ICT solutions to business problems
+As an experienced member of our Software Engineering Group we look first and foremost for people who are passionate around solving business problems through innovation & engineering practices .,innovation & engineering practices .,innovation practices,innovation processes
+As an experienced member of our Software Engineering Group we look first and foremost for people who are passionate around solving business problems through innovation & engineering practices .,innovation & engineering practices .,engineering practices,engineering principles
+You will be required to apply your depth of knowledge and expertise to all aspects of the software development lifecycle as well as partner continuously with your many stakeholders on a daily basis to stay focused on common goals .,apply your depth of knowledge and expertise,apply your depth of knowledge,UNDERSPECIFIED
+You will be required to apply your depth of knowledge and expertise to all aspects of the software development lifecycle as well as partner continuously with your many stakeholders on a daily basis to stay focused on common goals .,apply your depth of knowledge and expertise,apply your expertise,UNDERSPECIFIED
+You will be required to apply your depth of knowledge and expertise to all aspects of the software development lifecycle as well as partner continuously with your many stakeholders on a daily basis to stay focused on common goals .,partner continuously with your many stakeholders,,engage with stakeholders
+You will be required to apply your depth of knowledge and expertise to all aspects of the software development lifecycle as well as partner continuously with your many stakeholders on a daily basis to stay focused on common goals .,focused on common goals .,,identify with the company's goals
+The Wealth Management Technology group is seeking an energetic intelligent self-starter in a developer / technology lead role to join the Portfolio Performance Measurement and Client reporting technology team .,energetic,,LABEL NOT PRESENT
+The Wealth Management Technology group is seeking an energetic intelligent self-starter in a developer / technology lead role to join the Portfolio Performance Measurement and Client reporting technology team .,intelligent,,LABEL NOT PRESENT
+The Wealth Management Technology group is seeking an energetic intelligent self-starter in a developer / technology lead role to join the Portfolio Performance Measurement and Client reporting technology team .,self-starter,,work independently
+• Working on cutting edge technologies including JAVA frameworks REST/Web services R Pentaho Oracle and noSQL in an Agile setting,JAVA,,Java (computer programming)
+• Working on cutting edge technologies including JAVA frameworks REST/Web services R Pentaho Oracle and noSQL in an Agile setting,REST/Web services,,LABEL NOT PRESENT
+• Working on cutting edge technologies including JAVA frameworks REST/Web services R Pentaho Oracle and noSQL in an Agile setting,R,,R
+• Working on cutting edge technologies including JAVA frameworks REST/Web services R Pentaho Oracle and noSQL in an Agile setting,Pentaho,,Pentaho Data Integration
+• Working on cutting edge technologies including JAVA frameworks REST/Web services R Pentaho Oracle and noSQL in an Agile setting,Oracle,,Oracle Relational Database
+• Working on cutting edge technologies including JAVA frameworks REST/Web services R Pentaho Oracle and noSQL in an Agile setting,noSQL,,NoSQL
+• Working on cutting edge technologies including JAVA frameworks REST/Web services R Pentaho Oracle and noSQL in an Agile setting,Agile,,Agile project management
+• Sophisticated application process management and monitoring platforms,application process management,,application process
+• Sophisticated application process management and monitoring platforms,monitoring platforms,,LABEL NOT PRESENT
+• Streamlining integration across issue tracking version control deployment and change management technologies,issue tracking,,LABEL NOT PRESENT
+• Streamlining integration across issue tracking version control deployment and change management technologies,deployment,,deploy ICT systems
+• Streamlining integration across issue tracking version control deployment and change management technologies,Streamlining integration,,ICT system integration
+• Streamlining integration across issue tracking version control deployment and change management technologies,change management,,alter management
+• Communicate advanced technical design and solutions to a technical and non-technical audience,Communicate advanced technical design and solutions,Communicate advanced technical design,apply technical communication skills
+• Communicate advanced technical design and solutions to a technical and non-technical audience,Communicate advanced technical design and solutions,Communicate advanced technical solutions,apply technical communication skills
+• Work collaboratively in teams and develop meaningful relationships to achieve common goals,Work collaboratively in teams,,work in teams
+• Work collaboratively in teams and develop meaningful relationships to achieve common goals,develop meaningful relationships,,establish collaborative relations
+• Work collaboratively in teams and develop meaningful relationships to achieve common goals,achieve common goals,,meet commitments
+* Expertise in application data and infrastructure architecture & design disciplines,application data and infrastructure architecture & design disciplines,application architecture,application process
+* Expertise in application data and infrastructure architecture & design disciplines,application data and infrastructure architecture & design disciplines,data architecture,manage ICT data architecture
+* Expertise in application data and infrastructure architecture & design disciplines,application data and infrastructure architecture & design disciplines,infrastructure architecture,information architecture
+* Expertise in application data and infrastructure architecture & design disciplines,application data and infrastructure architecture & design disciplines,design disciplines,LABEL NOT PRESENT
+* Ability to analyse requirements and interact directly with business users,analyse requirements,,analyse business requirements
+* Ability to analyse requirements and interact directly with business users,interact directly with business users,,communicate with stakeholders
+* Awareness of cloud micro-service and container deployment patterns,cloud micro-service and container deployment patterns,cloud micro-service deployment patterns,deploy cloud resource
+* Awareness of cloud micro-service and container deployment patterns,cloud micro-service and container deployment patterns,cloud container deployment patterns,deploy cloud resource
+* Testing CI & Behaviour Driven Development Skills,Testing,,UNDERSPECIFIED
+* Testing CI & Behaviour Driven Development Skills,CI,,LABEL NOT PRESENT
+* Testing CI & Behaviour Driven Development Skills,Behaviour Driven Development Skills,,LABEL NOT PRESENT
+* Ability to work in large collaborative teams to achieve organizational goals and passionate about building an innovative culture,work in large collaborative teams,,work in teams
+* Ability to work in large collaborative teams to achieve organizational goals and passionate about building an innovative culture,achieve organizational goals,,meet commitments
+* Ability to work in large collaborative teams to achieve organizational goals and passionate about building an innovative culture,building an innovative culture,,think innovately
+Proficiency in multiple modern programming languages Java R,Java,,Java (computer programming)
+Proficiency in multiple modern programming languages Java R,R,,R
+* Experience of Databases and ETL tools,Databases,,database
+* Experience of Databases and ETL tools,ETL tools,,"data extraction, transformation and loading tools"
+* Knowledge of R or Python with machine learning & Data Tables is a big plus,R,,R
+* Knowledge of R or Python with machine learning & Data Tables is a big plus,Python,,Python (computer programming)
+* Knowledge of R or Python with machine learning & Data Tables is a big plus,machine learning,,machine learning
+* Knowledge of R or Python with machine learning & Data Tables is a big plus,Data Tables,,data storage
+* Knowledge of messaging brokers such as Qpid/MQ/Kafka/RabbitMQ,Qpid/MQ/Kafka/RabbitMQ,,LABEL NOT PRESENT
+* Knowledge of Big Data/NoSql solutions is beneficial,Big,,UNDERSPECIFIED
+* Knowledge of financial performance calculations including calculating benchmark blends,calculating benchmark blends,,LABEL NOT PRESENT
+* Knowledge of financial performance calculations including calculating benchmark blends,financial performance calculations,,analyse financial performance of a company
+Industry: Entertainment Gaming Mobile Game,Entertainment,,entertainment industry
+Industry: Entertainment Gaming Mobile Game,Gaming,,UNDERSPECIFIED
+Industry: Entertainment Gaming Mobile Game,Mobile Game,,LABEL NOT PRESENT
+unity3d c# user-experience,unity3d,,Unity (digital game creation systems)
+unity3d c# user-experience,c#,,C#
+unity3d c# user-experience,user-experience,,design user interface
+Entertainment Gaming Mobile Game,Entertainment,,entertainment industry
+Entertainment Gaming Mobile Game,Gaming,,LABEL NOT PRESENT
+Entertainment Gaming Mobile Game,Mobile Game,,LABEL NOT PRESENT
+unity3d c# user-experience,unity3d,,Unity (digital game creation systems)
+unity3d c# user-experience,c#,,C#
+unity3d c# user-experience,user-experience,,design user interface
+Are you a passionate game developer with a flair for gameplay and a good aesthetic know-how?,flair for gameplay,,LABEL NOT PRESENT
+Are you a passionate game developer with a flair for gameplay and a good aesthetic know-how?,aesthetic know-how?,,aesthetics
+As a part of the Games Team you will have the opportunity to work closely with other programmers designers and artists to develop new features for two of our biggest and most popular games Lily's Garden .,work closely with other programmers designers and artists,work closely with other programmers,liaise with engineers
+As a part of the Games Team you will have the opportunity to work closely with other programmers designers and artists to develop new features for two of our biggest and most popular games Lily's Garden .,work closely with other programmers designers and artists,work closely with other designers,collaborate with designers
+As a part of the Games Team you will have the opportunity to work closely with other programmers designers and artists to develop new features for two of our biggest and most popular games Lily's Garden .,work closely with other programmers designers and artists,work closely with other artists,work with an artistic team
+You will be responsible for a wide range of tasks related to implementing and maintaining various platforms and systems .,implementing and maintaining various platforms and systems .,implementing various platforms,LABEL NOT PRESENT
+You will be responsible for a wide range of tasks related to implementing and maintaining various platforms and systems .,implementing and maintaining various platforms and systems .,implementing various systems,LABEL NOT PRESENT
+You will be responsible for a wide range of tasks related to implementing and maintaining various platforms and systems .,implementing and maintaining various platforms and systems .,maintaining various platforms,UNDERSPECIFIED
+You will be responsible for a wide range of tasks related to implementing and maintaining various platforms and systems .,implementing and maintaining various platforms and systems .,maintaining various systems,LABEL NOT PRESENT
+Our games are developed using Unity so we expect all our programmers to have solid knowledge of mobile game development in Unity3D and C# .,Unity,,Unity (digital game creation systems)
+Our games are developed using Unity so we expect all our programmers to have solid knowledge of mobile game development in Unity3D and C# .,mobile game development,,LABEL NOT PRESENT
+Our games are developed using Unity so we expect all our programmers to have solid knowledge of mobile game development in Unity3D and C# .,Unity3D,,Unity (digital game creation systems)
+Our games are developed using Unity so we expect all our programmers to have solid knowledge of mobile game development in Unity3D and C# .,C# .,,C#
+In your day-to-day work you will be using Unity to implement new game features such as end-of-content features the family system and tournaments and will be responsible for making the designs look final and pretty for our end users .,implement new game features,,adapt developed game to the market
+In your day-to-day work you will be using Unity to implement new game features such as end-of-content features the family system and tournaments and will be responsible for making the designs look final and pretty for our end users .,making the designs look final and pretty,making the designs look final,design the physical outlook of games
+In your day-to-day work you will be using Unity to implement new game features such as end-of-content features the family system and tournaments and will be responsible for making the designs look final and pretty for our end users .,making the designs look final and pretty,making the designs look pretty,design the physical outlook of games
+In your day-to-day work you will be using Unity to implement new game features such as end-of-content features the family system and tournaments and will be responsible for making the designs look final and pretty for our end users .,Unity,,Unity (digital game creation systems)
+It is therefore important to us that you are not only very self-driven and open-minded but that you are also not afraid to be critical ( in a constructive way of course ) and to collaborate with your colleagues to find solutions .,self-driven,,work independently
+It is therefore important to us that you are not only very self-driven and open-minded but that you are also not afraid to be critical ( in a constructive way of course ) and to collaborate with your colleagues to find solutions .,open-minded,,keep an open mind
+It is therefore important to us that you are not only very self-driven and open-minded but that you are also not afraid to be critical ( in a constructive way of course ) and to collaborate with your colleagues to find solutions .,not afraid to be critical,,assertiveness
+It is therefore important to us that you are not only very self-driven and open-minded but that you are also not afraid to be critical ( in a constructive way of course ) and to collaborate with your colleagues to find solutions .,collaborate with your colleagues,,cooperate with colleagues
+It is therefore important to us that you are not only very self-driven and open-minded but that you are also not afraid to be critical ( in a constructive way of course ) and to collaborate with your colleagues to find solutions .,find solutions .,,create solutions to problems
+Implementing new gameplay features and user interfaces based on game designs,Implementing new gameplay features and user interfaces,implementing new gameplay features,video-games functionalities
+Implementing new gameplay features and user interfaces based on game designs,Implementing new gameplay features and user interfaces,implementing new user interfaces,design user interface
+Contributing to and maintaining existing game features,Contributing to and maintaining existing game features,contributing to existing game features,video-games functionalities
+Contributing to and maintaining existing game features,Contributing to and maintaining existing game features,maintaining existing game features,LABEL NOT PRESENT
+Participating in the development of new features and optimizing existing ones,Participating in the development of new features and optimizing existing ones,participating in the development of new features,LABEL NOT PRESENT
+Participating in the development of new features and optimizing existing ones,Participating in the development of new features and optimizing existing ones,optimizing existing features,LABEL NOT PRESENT
+Participating in the development of performant and rigid systems,Participating in the development of performant and rigid systems,,LABEL NOT PRESENT
+Running tests on new code,Running tests on new code,,execute software tests
+At least 3 years of experience in working with mobile games in Unity3D ( iOS and/or Android ) Strong knowledge of C#,mobile games,,LABEL NOT PRESENT
+At least 3 years of experience in working with mobile games in Unity3D ( iOS and/or Android ) Strong knowledge of C#,Unity3D ( iOS and/or Android ),,Unity (digital game creation systems)
+At least 3 years of experience in working with mobile games in Unity3D ( iOS and/or Android ) Strong knowledge of C#,C#,,C#
+Experience in UX especially making user experiences at an interactive degree,making user experiences at an interactive degree,,create prototype of user experience solutions
+Experience in UX especially making user experiences at an interactive degree,UX,,LABEL NOT PRESENT
+Excellent 3D game programming knowledge including math and dynamic skills,math,,mathematics
+Excellent 3D game programming knowledge including math and dynamic skills,3D game programming,,LABEL NOT PRESENT
+Excellent 3D game programming knowledge including math and dynamic skills,dynamic skills,,UNDERSPECIFIED
+Good aesthetic know-how,aesthetic know-how,,aesthetics
+Solid system and architectural thinking,system and architectural thinking,system thinking,systems thinking
+Solid system and architectural thinking,system and architectural thinking,architectural thinking,architectural theory
+Previous experience with developing mobile games with a large amount of content delivery and a good sense of F2P game design,developing mobile games with a large amount of content delivery,,adapt developed game to the market
+Previous experience with developing mobile games with a large amount of content delivery and a good sense of F2P game design,sense of F2P game design,,LABEL NOT PRESENT
+Experience with TDD ( test driven development ) Knowledge of other analytics tools and programming languages especially Objective C and Java,TDD ( test driven development ),,develop test procedures
+Experience with TDD ( test driven development ) Knowledge of other analytics tools and programming languages especially Objective C and Java,Objective C,,Objective-C
+Experience with TDD ( test driven development ) Knowledge of other analytics tools and programming languages especially Objective C and Java,Java,,Java (computer programming)
+Industry: Computer Software Databases Information Technology,Computer Software,,computer engineering
+Industry: Computer Software Databases Information Technology,Databases,,database
+Industry: Computer Software Databases Information Technology,Information Technology,,use IT tools
+java algorithm database multithreading concurrency,java,,Java (computer programming)
+java algorithm database multithreading concurrency,algorithm,,algorithms
+java algorithm database multithreading concurrency,database,,database
+java algorithm database multithreading concurrency,multithreading,,use concurrent programming
+java algorithm database multithreading concurrency,concurrency,,use concurrent programming
+Computer Software Databases Information Technology,Computer Software,,computer technology
+Computer Software Databases Information Technology,Databases,,database
+Computer Software Databases Information Technology,Information Technology,,use IT tools
+java algorithm database multithreading concurrency,java,,Java (computer programming)
+java algorithm database multithreading concurrency,algorithm,,algorithms
+java algorithm database multithreading concurrency,database,,database
+java algorithm database multithreading concurrency,multithreading,,use concurrent programming
+java algorithm database multithreading concurrency,concurrency,,use concurrent programming
+We are looking for a strong experienced backend engineer that is able to solve technical challenges deliver high quality code to join our talented innovative team .,solve technical challenges,,solve technical problems
+We are looking for a strong experienced backend engineer that is able to solve technical challenges deliver high quality code to join our talented innovative team .,deliver high quality code,,manage quality
+build and ship new features for the core of the leading graph database,build and ship new features,build new features,create new concepts
+build and ship new features for the core of the leading graph database,build and ship new features,ship new features,LABEL NOT PRESENT
+write high quality testable and efficient code,write high quality testable and efficient code,,apply basic programming skills
+promote new ideas take active part in features discussions and roadmap prioritisation,promote new ideas,,LABEL NOT PRESENT
+promote new ideas take active part in features discussions and roadmap prioritisation,take active part in features discussions and roadmap prioritisation,take active part in features discussions,engage in debates
+promote new ideas take active part in features discussions and roadmap prioritisation,take active part in features discussions and roadmap prioritisation,take active part in roadmap prioritisation,LABEL NOT PRESENT
+integrate cutting edge research and technologies into the database core,integrate cutting edge research and technologies,integrate cutting edge research,LABEL NOT PRESENT
+integrate cutting edge research and technologies into the database core,integrate cutting edge research and technologies,integrate cutting edge technologies,UNDERSPECIFIED
+work closely with our customers and other teams,work closely with our customers and other teams,work closely with our customers,maintain relationship with customers
+work closely with our customers and other teams,work closely with our customers and other teams,work closely with other teams,cooperate with colleagues
+You have 5+ years of experience developing production level software,developing production level software,,LABEL NOT PRESENT
+You have experience designing multi-threaded systems and algorithms,designing multi-threaded systems and algorithms,designing multi-threaded systems,LABEL NOT PRESENT
+You have experience designing multi-threaded systems and algorithms,designing multi-threaded systems and algorithms,designing multi-threaded algorithms,LABEL NOT PRESENT
+You have a deep understanding of system design data structures and algorithms,system design,,design information system
+You have a deep understanding of system design data structures and algorithms,data structures,,information structure
+You have a deep understanding of system design data structures and algorithms,algorithms,,algorithms
+You are fluent in Java and have knowledge of other programming languages,Java,,Java (computer programming)
+You have strong troubleshooting skills,troubleshooting,,troubleshoot
+You have knowledge about performance profiling and optimisation,performance profiling,,conduct performance measurement
+You have knowledge about performance profiling and optimisation,optimisation,,UNDERSPECIFIED
+You have experience working with different development methodologies,development methodologies,,LABEL NOT PRESENT
+You care about code quality and can't imagine your life without it,care about code quality,,quality standards
+You have superior communication skills and a sense of humor!,communication skills,,communication principles
+You have superior communication skills and a sense of humor!,sense of humor!,,practice humour
+Industry: eCommerce Price Comparison Online Portal,eCommerce,,e-commerce systems
+Industry: eCommerce Price Comparison Online Portal,Price Comparison,,pricing strategies
+Industry: eCommerce Price Comparison Online Portal,Online Portal,,UNDERSPECIFIED
+. net agile rest microservices,. net,,Visual Studio .NET
+. net agile rest microservices,agile,,LABEL NOT PRESENT
+. net agile rest microservices,rest,,LABEL NOT PRESENT
+. net agile rest microservices,microservices,,LABEL NOT PRESENT
+eCommerce Price Comparison Online Portal,eCommerce,,e-commerce systems
+eCommerce Price Comparison Online Portal,Price Comparison,,LABEL NOT PRESENT
+eCommerce Price Comparison Online Portal,Online Portal,,LABEL NOT PRESENT
+. net agile rest microservices,. net,,Visual Studio .NET
+. net agile rest microservices,agile,,LABEL NOT PRESENT
+. net agile rest microservices,rest,,LABEL NOT PRESENT
+. net agile rest microservices,microservices,,LABEL NOT PRESENT
+Development test and deployment of new components,Development test and deployment of new components,Development of new components,LABEL NOT PRESENT
+Development test and deployment of new components,Development test and deployment of new components,test of new components,UNDERSPECIFIED
+Development test and deployment of new components,Development test and deployment of new components,deployment of new components,LABEL NOT PRESENT
+Transition and re-engineering of our existing web platform,Transition,,LABEL NOT PRESENT
+Transition and re-engineering of our existing web platform,re-engineering,,identify processes for re-engineering
+Design and extension of our Micro-Services based web architecture with high-functional and high-performance features,Design,,LABEL NOT PRESENT
+Design and extension of our Micro-Services based web architecture with high-functional and high-performance features,extension,,UNDERSPECIFIED
+continuous integration and continuous deployment,continuous integration,,ICT system integration
+continuous integration and continuous deployment,continuous deployment,,LABEL NOT PRESENT
+. NET is your daily companion,. NET,,LABEL NOT PRESENT
+practice know-how in Micro Services,Micro Services,,LABEL NOT PRESENT
+development and implementation of REST API's,development and implementation of REST API's,development of REST API's,LABEL NOT PRESENT
+development and implementation of REST API's,development and implementation of REST API's,implementation of REST API's,design application interfaces
+background in web and/or e-commerce projects,web and/or e-commerce,web,UNDERSPECIFIED
+background in web and/or e-commerce projects,web and/or e-commerce,e-commerce,e-commerce systems
+Agile Method Practice,Agile Method Practice,,Agile project management
+Fluent in spoken and written English knowledge of the German language is a plus,English,,English
+Fluent in spoken and written English knowledge of the German language is a plus,German,,German
+Industry: Data Science IT Security Software Development / Engineering,Data Science,,LABEL NOT PRESENT
+Industry: Data Science IT Security Software Development / Engineering,IT Security,,cyber security
+Industry: Data Science IT Security Software Development / Engineering,Software Development / Engineering,,computer engineering
+java rest cloud spring design-patterns,java,,Java (computer programming)
+java rest cloud spring design-patterns,rest,,LABEL NOT PRESENT
+java rest cloud spring design-patterns,cloud,,cloud technologies
+java rest cloud spring design-patterns,spring,,LABEL NOT PRESENT
+java rest cloud spring design-patterns,design-patterns,,use software design patterns
+Data Science IT Security Software Development / Engineering,Data Science,,perform data analysis
+Data Science IT Security Software Development / Engineering,IT Security,,LABEL NOT PRESENT
+Data Science IT Security Software Development / Engineering,Software Development / Engineering,,LABEL NOT PRESENT
+java rest cloud spring design-patterns,java,,Java (computer programming)
+java rest cloud spring design-patterns,rest,,LABEL NOT PRESENT
+java rest cloud spring design-patterns,cloud,,cloud technologies
+java rest cloud spring design-patterns,spring,,LABEL NOT PRESENT
+java rest cloud spring design-patterns,design-patterns,,use software design patterns
+As a developer your infectious enthusiasm and professional attitude make you a role model for your project team .,enthusiasm,,show commitment
+As a developer your infectious enthusiasm and professional attitude make you a role model for your project team .,professional attitude,,show professional responsibility
+You work together closely with product owners and colleagues from other specialisations ( e.g .,work together closely with product owners and colleagues,work together closely with product owners,LABEL NOT PRESENT
+You work together closely with product owners and colleagues from other specialisations ( e.g .,work together closely with product owners and colleagues,work together closely with colleagues,cooperate with colleagues
+You develop an in-depth understanding of the domains and the requirements of individual projects and you are happy to share your valuable insights with customers and offer them professional advice .,develop an in-depth understanding of the domains and the requirements,develop an in-depth understanding of the domains,LABEL NOT PRESENT
+You develop an in-depth understanding of the domains and the requirements of individual projects and you are happy to share your valuable insights with customers and offer them professional advice .,develop an in-depth understanding of the domains and the requirements,develop an in-depth understanding of the requirements,identify requirements of the work
+You develop an in-depth understanding of the domains and the requirements of individual projects and you are happy to share your valuable insights with customers and offer them professional advice .,happy to share your valuable insights,,advise others
+You develop an in-depth understanding of the domains and the requirements of individual projects and you are happy to share your valuable insights with customers and offer them professional advice .,offer them professional advice .,,advise others
+You have the opportunity to share your knowledge locally with your team as well as internationally with the entire <ORGANIZATION> <ORGANIZATION> at internal gatherings dojos and technology camps .,share your knowledge,,promote the transfer of knowledge
+work: you will have the chance to identify your own development potential and advise individual colleagues on their own professional development .,advise individual colleagues,,mentor individuals
+You have spent many years devoting yourself to software development and have experience working in an agile project team .,agile project team .,,Agile project management
+You have spent many years devoting yourself to software development and have experience working in an agile project team .,software development,,LABEL NOT PRESENT
+Software development with one of the latest Java stack frameworks is your passion .,Java stack frameworks,,LABEL NOT PRESENT
+At the same time you have a high level of awareness when it comes to quality and you possess the necessary skills such as testing at various levels in an agile environment and test automation .,testing at various levels in an agile environment,,levels of software testing
+At the same time you have a high level of awareness when it comes to quality and you possess the necessary skills such as testing at various levels in an agile environment and test automation .,test automation .,,UNDERSPECIFIED
+At the same time you have a high level of awareness when it comes to quality and you possess the necessary skills such as testing at various levels in an agile environment and test automation .,quality,,UNDERSPECIFIED
+Clear easy-to-maintain code are important to you .,Clear easy-to-maintain code,,implement ICT coding conventions
+You have a strong interest in the latest technologies and ideally you already have experience with back end development databases cloud computing RESTful API and big data in particular .,latest technologies,,emergent technologies
+You have a strong interest in the latest technologies and ideally you already have experience with back end development databases cloud computing RESTful API and big data in particular .,back end development,,LABEL NOT PRESENT
+You have a strong interest in the latest technologies and ideally you already have experience with back end development databases cloud computing RESTful API and big data in particular .,databases,,database
+You have a strong interest in the latest technologies and ideally you already have experience with back end development databases cloud computing RESTful API and big data in particular .,cloud computing,,cloud technologies
+You have a strong interest in the latest technologies and ideally you already have experience with back end development databases cloud computing RESTful API and big data in particular .,RESTful API,,LABEL NOT PRESENT
+You have a strong interest in the latest technologies and ideally you already have experience with back end development databases cloud computing RESTful API and big data in particular .,big data,,analyse big data
+You know DevOps inside out and you know how to build implement and operate a system .,build implement and operate a system .,build a system,LABEL NOT PRESENT
+You know DevOps inside out and you know how to build implement and operate a system .,build implement and operate a system .,implement a system,integrate system components
+You know DevOps inside out and you know how to build implement and operate a system .,build implement and operate a system .,operate a system,administer ICT system
+You know DevOps inside out and you know how to build implement and operate a system .,DevOps,,DevOps
+You are also familiar with architecture concepts and design patterns .,architecture concepts,,architectural design
+You are also familiar with architecture concepts and design patterns .,design patterns .,,design principles
+Your profile is rounded off with proficiency in German and a very good command of English .,German,,German
+Your profile is rounded off with proficiency in German and a very good command of English .,English .,,English
+Industry: Digital Agency Software Development / Engineering User Experience,Digital Agency,,UNDERSPECIFIED
+Industry: Digital Agency Software Development / Engineering User Experience,Software Development / Engineering,,computer engineering
+Industry: Digital Agency Software Development / Engineering User Experience,User Experience,,manage the customer experience
+javascript angular reactjs vue.js typescript,javascript,,JavaScript
+javascript angular reactjs vue.js typescript,angular,,Angular
+javascript angular reactjs vue.js typescript,reactjs,,LABEL NOT PRESENT
+javascript angular reactjs vue.js typescript,vue.js,,LABEL NOT PRESENT
+javascript angular reactjs vue.js typescript,typescript,,TypeScript
+Digital Agency Software Development / Engineering User Experience,Digital Agency,,LABEL NOT PRESENT
+Digital Agency Software Development / Engineering User Experience,Software Development / Engineering,,computer engineering
+Digital Agency Software Development / Engineering User Experience,User Experience,,manage the customer experience
+javascript angular reactjs vue.js typescript,javascript,,JavaScript
+javascript angular reactjs vue.js typescript,angular,,Angular
+javascript angular reactjs vue.js typescript,reactjs,,LABEL NOT PRESENT
+javascript angular reactjs vue.js typescript,vue.js,,LABEL NOT PRESENT
+javascript angular reactjs vue.js typescript,typescript,,TypeScript
+Our frontend developers work with UX designers to develop attractive state-of-the-art user interfaces for customers from various industries .,develop attractive state-of-the-art user interfaces,,design user interface
+Application architecture,Application architecture,,define software architecture
+API design,API design,,LABEL NOT PRESENT
+Implementation of functionality,Implementation of functionality,,LABEL NOT PRESENT
+Code reviews,Code reviews,,conduct ICT code review
+Technical advice for our customers,Technical advice for our customers,,advise client on technical possibilities
+Guidance and support for your teammates,Guidance and support for your teammates,Guidance for your teammates,work in teams
+Guidance and support for your teammates,Guidance and support for your teammates,support for your teammates,teamwork principles
+At the same time you can give free rein to your ideas by actively participating in innovation projects and realize exciting projects in a team .,realize exciting projects,,perform project management
+Degree in computer science ( or related field ) ( Significant ) experience with modern Javascript/Typescript development especially Angular React or Vue,Degree in computer science,,computer science
+Degree in computer science ( or related field ) ( Significant ) experience with modern Javascript/Typescript development especially Angular React or Vue,Javascript/Typescript,,UNDERSPECIFIED
+Degree in computer science ( or related field ) ( Significant ) experience with modern Javascript/Typescript development especially Angular React or Vue,Angular,,Angular
+Degree in computer science ( or related field ) ( Significant ) experience with modern Javascript/Typescript development especially Angular React or Vue,React,,LABEL NOT PRESENT
+Degree in computer science ( or related field ) ( Significant ) experience with modern Javascript/Typescript development especially Angular React or Vue,Vue,,LABEL NOT PRESENT
+Experience/interest in the architecture of complex single page applications,architecture of complex single page applications,,LABEL NOT PRESENT
+Accessibility usability and the current web standards are important to you,Accessibility,,ICT accessibility standards
+Accessibility usability and the current web standards are important to you,usability,,application usability
+Accessibility usability and the current web standards are important to you,current web standards,,World Wide Web Consortium standards
+Strong awareness of code quality and clean code,code quality,,manage quality
+Strong awareness of code quality and clean code,clean code,,LABEL NOT PRESENT
+High awareness of quality and responsibility,quality and responsibility,quality,UNDERSPECIFIED
+High awareness of quality and responsibility,quality and responsibility,responsibility,assume responsibility
+An eye for aesthetics design and faithful implementation,eye for aesthetics design,,aesthetics
+An eye for aesthetics design and faithful implementation,faithful implementation,,LABEL NOT PRESENT
+You are fluent in German and English,German,,German
+You are fluent in German and English,English,,English
+Industry: Financial Services Financial Technology Regulatory Reporting,Financial Services,,offer financial services
+Industry: Financial Services Financial Technology Regulatory Reporting,Financial Technology,,financial engineering
+Industry: Financial Services Financial Technology Regulatory Reporting,Regulatory Reporting,,prepare compliance documents
+c# typescript . net-core less sql-server,c#,,C#
+c# typescript . net-core less sql-server,typescript,,TypeScript
+c# typescript . net-core less sql-server,. net-core,,LABEL NOT PRESENT
+c# typescript . net-core less sql-server,less,,LESS
+c# typescript . net-core less sql-server,sql-server,,SQL Server
+Financial Services Financial Technology Regulatory Reporting,Financial Services,,offer financial services
+Financial Services Financial Technology Regulatory Reporting,Financial Technology,,LABEL NOT PRESENT
+Financial Services Financial Technology Regulatory Reporting,Regulatory Reporting,,follow reporting procedures
+c# typescript . net-core less sql-server,c#,,C#
+c# typescript . net-core less sql-server,typescript,,TypeScript
+c# typescript . net-core less sql-server,. net-core,,LABEL NOT PRESENT
+c# typescript . net-core less sql-server,less,,LESS
+c# typescript . net-core less sql-server,sql-server,,SQL Server
+Working as part of a diverse close-knit team our Developers deliver software solutions either through creation of programs configuration/customisation of platforms or a combination of both .,deliver software solutions,,create solutions to problems
+Working as part of a diverse close-knit team our Developers deliver software solutions either through creation of programs configuration/customisation of platforms or a combination of both .,creation of programs,,ICT system programming
+Working as part of a diverse close-knit team our Developers deliver software solutions either through creation of programs configuration/customisation of platforms or a combination of both .,configuration/customisation of platforms,,UNDERSPECIFIED
+This along with the capture & analysis of requirements is all part of the role .,capture & analysis of requirements,capture requirements,LABEL NOT PRESENT
+This along with the capture & analysis of requirements is all part of the role .,capture & analysis of requirements,analysis of requirements,identify requirements of the work
+Requirements capture/analysis and documentation,Requirements capture/analysis and documentation,requirements capture,LABEL NOT PRESENT
+Requirements capture/analysis and documentation,Requirements capture/analysis and documentation,requirements analysis,analyse business requirements
+Requirements capture/analysis and documentation,Requirements capture/analysis and documentation,requirements documentation,define technical requirements
+Design ( and documenting ) of own solutions or sub-sets of solutions,Design ( and documenting ) of own solutions,Design of own solutions,design process
+Design ( and documenting ) of own solutions or sub-sets of solutions,Design ( and documenting ) of own solutions,documenting of own solutions,LABEL NOT PRESENT
+Writing software and/or configuring software platforms,Writing software,,authoring software
+Writing software and/or configuring software platforms,configuring software platforms,,software frameworks
+Troubleshooting and debugging code,Troubleshooting,,troubleshoot
+Troubleshooting and debugging code,debugging code,,debug software
+Testing and analysis of test results,Testing,,UNDERSPECIFIED
+Testing and analysis of test results,analysis of test results,,analyse test data
+Documentation – both technical and non-technical,Documentation,,provide documentation
+Understands and can use all components of Microsoft / Web development environment including:,Microsoft,,LABEL NOT PRESENT
+Understands and can use all components of Microsoft / Web development environment including:,Web development,,web programming
+C# . NET Core . NET Framework,C#,,C#
+C# . NET Core . NET Framework,. NET Core,,LABEL NOT PRESENT
+C# . NET Core . NET Framework,. NET Framework,,LABEL NOT PRESENT
+SQL ( SQL Server especially ) TypeScript & JavaScript,SQL,,SQL
+SQL ( SQL Server especially ) TypeScript & JavaScript,SQL Server,,SQL Server
+SQL ( SQL Server especially ) TypeScript & JavaScript,JavaScript,,JavaScript
+ASP.NET Blazor,ASP.NET,,ASP.NET
+ASP.NET Blazor,Blazor,,LABEL NOT PRESENT
+One or more JavaScript libraries such as JQuery Angular React or Vue,JavaScript,,JavaScript
+One or more JavaScript libraries such as JQuery Angular React or Vue,JQuery,,LABEL NOT PRESENT
+One or more JavaScript libraries such as JQuery Angular React or Vue,Angular,,Angular
+One or more JavaScript libraries such as JQuery Angular React or Vue,React,,LABEL NOT PRESENT
+One or more JavaScript libraries such as JQuery Angular React or Vue,Vue,,LABEL NOT PRESENT
+HTML5 CSS ( LESS) Bootstrap,HTML5,,LABEL NOT PRESENT
+HTML5 CSS ( LESS) Bootstrap,CSS ( LESS),,LESS
+HTML5 CSS ( LESS) Bootstrap,Bootstrap,,LABEL NOT PRESENT
+Experience in troubleshooting IT infrastructure related issues advantageous .,troubleshooting IT infrastructure related issues,,perform ICT troubleshooting
+At least 5 years in a Microsoft-based development environment .,Microsoft-based development environment .,,LABEL NOT PRESENT
+Relevant Microsoft certifications .,Microsoft certifications .,,LABEL NOT PRESENT
+Team player with a methodical and reliable approach to problem solving,Team player,,work in teams
+Team player with a methodical and reliable approach to problem solving,methodical and reliable approach,methodical approach,LABEL NOT PRESENT
+Team player with a methodical and reliable approach to problem solving,methodical and reliable approach,reliable appraoch,UNDERSPECIFIED
+Team player with a methodical and reliable approach to problem solving,problem solving,,solve problems
+Experience in a Financial Services environment ( useful ) Excellent communication skills – both verbal and written,communication skills,,communication
+Experience in a Financial Services environment ( useful ) Excellent communication skills – both verbal and written,Financial Services,,offer financial services
+java testing web-services,java,,Java (computer programming)
+java testing web-services,testing,,UNDERSPECIFIED
+java testing web-services,web-services,,LABEL NOT PRESENT
+java testing web-services,java,,Java (computer programming)
+java testing web-services,testing,,UNDERSPECIFIED
+java testing web-services,web-services,,LABEL NOT PRESENT
+Senior Java Software Engineer ( VP ) As a member of our <ORGANIZATION> <ORGANIZATION> <ORGANIZATION> we look first and foremost for people who are passionate around solving business problems through innovation & engineering practices .,solving business problems,,solve problems
+Senior Java Software Engineer ( VP ) As a member of our <ORGANIZATION> <ORGANIZATION> <ORGANIZATION> we look first and foremost for people who are passionate around solving business problems through innovation & engineering practices .,innovation & engineering practices .,innovation practices,innovation processes
+Senior Java Software Engineer ( VP ) As a member of our <ORGANIZATION> <ORGANIZATION> <ORGANIZATION> we look first and foremost for people who are passionate around solving business problems through innovation & engineering practices .,innovation & engineering practices .,engineering practices,engineering principles
+You will be required to apply your depth of knowledge and expertise to all aspects of the software development lifecycle as well as partner continuously with your many stakeholders on a daily basis to stay focused on common goals .,apply your depth of knowledge and expertise,apply your depth of knowledge,UNDERSPECIFIED
+You will be required to apply your depth of knowledge and expertise to all aspects of the software development lifecycle as well as partner continuously with your many stakeholders on a daily basis to stay focused on common goals .,apply your depth of knowledge and expertise,apply your expertise,UNDERSPECIFIED
+You will be required to apply your depth of knowledge and expertise to all aspects of the software development lifecycle as well as partner continuously with your many stakeholders on a daily basis to stay focused on common goals .,partner continuously with your many stakeholders,,engage with stakeholders
+You will be required to apply your depth of knowledge and expertise to all aspects of the software development lifecycle as well as partner continuously with your many stakeholders on a daily basis to stay focused on common goals .,stay focused on common goals .,,meet commitments
+You will be required to apply your depth of knowledge and expertise to all aspects of the software development lifecycle as well as partner continuously with your many stakeholders on a daily basis to stay focused on common goals .,software development lifecycle,,systems development life-cycle
+You will join a growing agile feature team that is responsible for Reference Data Engineering which is a diverse development role with a primary focus on creating API services which manage reference data used to control how we process post trade and settlement activities .,creating API services,,LABEL NOT PRESENT
+You will work closely with colleagues and the business to understand both functional and non-functional requirements and then help drive the design and implementation of well tested easily supportable scalable and robust solutions .,work closely with colleagues and the business,work closely with colleagues,liaise with colleagues
+You will work closely with colleagues and the business to understand both functional and non-functional requirements and then help drive the design and implementation of well tested easily supportable scalable and robust solutions .,work closely with colleagues and the business,work closely with the business,liaise with managers
+You will work closely with colleagues and the business to understand both functional and non-functional requirements and then help drive the design and implementation of well tested easily supportable scalable and robust solutions .,drive the design and implementation of well tested easily supportable scalable and robust solutions .,drive the design of well tested easily supportable scalable and robust solutions,LABEL NOT PRESENT
+You will work closely with colleagues and the business to understand both functional and non-functional requirements and then help drive the design and implementation of well tested easily supportable scalable and robust solutions .,drive the design and implementation of well tested easily supportable scalable and robust solutions .,drive the implementation of well tested easily scalable and robust solutions,LABEL NOT PRESENT
+You will work closely with colleagues and the business to understand both functional and non-functional requirements and then help drive the design and implementation of well tested easily supportable scalable and robust solutions .,functional and non-functional requirements,,UNDERSPECIFIED
+* BS/BA degree or equivalent experience,BS/BA degree,,LABEL NOT PRESENT
+* Knowledge of deployment approaches considerations and challenges of managing deployments across various environments,deployment approaches,,solution deployment
+* Knowledge of deployment approaches considerations and challenges of managing deployments across various environments,managing deployments,,UNDERSPECIFIED
+* Knowledge of deployment approaches considerations and challenges of managing deployments across various environments,considerations,,UNDERSPECIFIED
+* Knowledge of industry wide technology strategies and best practices,industry wide technology strategies,,LABEL NOT PRESENT
+* Knowledge of industry wide technology strategies and best practices,best practices,,UNDERSPECIFIED
+* Ability to work in large collaborative teams to achieve organizational goals and passionate about building an innovative culture,work in large collaborative teams,,work in teams
+* Ability to work in large collaborative teams to achieve organizational goals and passionate about building an innovative culture,achieve organizational goals,,meet commitments
+* Ability to work in large collaborative teams to achieve organizational goals and passionate about building an innovative culture,building an innovative culture,,think innovately
+* Strong skillset with Java ( version 8 or higher ) and ideally Spring Boot,Java ( version 8 or higher ),,Java (computer programming)
+* Strong skillset with Java ( version 8 or higher ) and ideally Spring Boot,Spring Boot,,LABEL NOT PRESENT
+Hands on experience with modern testing frameworks ( Performance Testing Unit Testing Integration Testing Behavioural Testing Frameworks Mocking frameworks Continuous Integration ) * Understanding of designing applications to work in a modern SRE way with scalability in mind,Performance Testing,,conduct performance tests
+Hands on experience with modern testing frameworks ( Performance Testing Unit Testing Integration Testing Behavioural Testing Frameworks Mocking frameworks Continuous Integration ) * Understanding of designing applications to work in a modern SRE way with scalability in mind,Unit Testing,,perform software unit testing
+Hands on experience with modern testing frameworks ( Performance Testing Unit Testing Integration Testing Behavioural Testing Frameworks Mocking frameworks Continuous Integration ) * Understanding of designing applications to work in a modern SRE way with scalability in mind,Integration Testing,,execute integration testing
+Hands on experience with modern testing frameworks ( Performance Testing Unit Testing Integration Testing Behavioural Testing Frameworks Mocking frameworks Continuous Integration ) * Understanding of designing applications to work in a modern SRE way with scalability in mind,Behavioural Testing Frameworks,,develop test procedures
+Hands on experience with modern testing frameworks ( Performance Testing Unit Testing Integration Testing Behavioural Testing Frameworks Mocking frameworks Continuous Integration ) * Understanding of designing applications to work in a modern SRE way with scalability in mind,Mocking frameworks,,LABEL NOT PRESENT
+Hands on experience with modern testing frameworks ( Performance Testing Unit Testing Integration Testing Behavioural Testing Frameworks Mocking frameworks Continuous Integration ) * Understanding of designing applications to work in a modern SRE way with scalability in mind,designing applications,,UNDERSPECIFIED
+Hands on experience with modern testing frameworks ( Performance Testing Unit Testing Integration Testing Behavioural Testing Frameworks Mocking frameworks Continuous Integration ) * Understanding of designing applications to work in a modern SRE way with scalability in mind,Continuous Integration ),,LABEL NOT PRESENT
+* Experience working on high throughput mission critical high performance STP platforms,high throughput mission critical high performance STP platforms,,LABEL NOT PRESENT
+* Experience in designing and building reusable services,designing and building reusable services,designing reusable services,LABEL NOT PRESENT
+* Experience in designing and building reusable services,designing and building reusable services,building reusable services,LABEL NOT PRESENT
+* Ability to support the developers in your team leading supporting and coaching others,support the developers in your team,,manage a team
+* Ability to support the developers in your team leading supporting and coaching others,leading,,lead others
+* Ability to support the developers in your team leading supporting and coaching others,supporting,,mentor individuals
+* Ability to support the developers in your team leading supporting and coaching others,coaching,,coach employees
+* Proven track record in application delivery and stakeholder management,application delivery,,LABEL NOT PRESENT
+* Proven track record in application delivery and stakeholder management,stakeholder management,,manage relationships with stakeholders
+* Beneficial if you have experience with Oracle or equivalent relational database,Oracle,,UNDERSPECIFIED
+Industry: Cloud Services Information Technology Technology Consulting,Cloud Services,,cloud technologies
+Industry: Cloud Services Information Technology Technology Consulting,Information Technology,,use IT tools
+Industry: Cloud Services Information Technology Technology Consulting,Technology Consulting,,provide technical expertise
+. net microsoft-dynamics dynamics-365,. net,,Visual Studio .NET
+. net microsoft-dynamics dynamics-365,microsoft-dynamics,,LABEL NOT PRESENT
+. net microsoft-dynamics dynamics-365,dynamics-365,,LABEL NOT PRESENT
+Cloud Services Information Technology Technology Consulting,Cloud Services,,cloud technologies
+Cloud Services Information Technology Technology Consulting,Information Technology,,computer technology
+Cloud Services Information Technology Technology Consulting,Technology Consulting,,provide technical expertise
+. net microsoft-dynamics dynamics-365,. net,,Visual Studio .NET
+. net microsoft-dynamics dynamics-365,microsoft-dynamics,,LABEL NOT PRESENT
+. net microsoft-dynamics dynamics-365,dynamics-365,,LABEL NOT PRESENT
+You'll have a key role in a digital transformation project for one of our major public sector customers developing an integral application to interface across several other governmental departments .,developing,,UNDERSPECIFIED
+Provide development to the on-premise Dynamics CRM solution being constructed over the next 12 months as part of a dedicated Dynamics 365 development Scrum Team ranging from customisation and configuration through to development of plug-ins and custom workflow activities using C# .,development,,LABEL NOT PRESENT
+Provide development to the on-premise Dynamics CRM solution being constructed over the next 12 months as part of a dedicated Dynamics 365 development Scrum Team ranging from customisation and configuration through to development of plug-ins and custom workflow activities using C# .,customisation,,produce customised tools
+Provide development to the on-premise Dynamics CRM solution being constructed over the next 12 months as part of a dedicated Dynamics 365 development Scrum Team ranging from customisation and configuration through to development of plug-ins and custom workflow activities using C# .,configuration,,UNDERSPECIFIED
+Provide development to the on-premise Dynamics CRM solution being constructed over the next 12 months as part of a dedicated Dynamics 365 development Scrum Team ranging from customisation and configuration through to development of plug-ins and custom workflow activities using C# .,development of plug-ins,,LABEL NOT PRESENT
+Provide development to the on-premise Dynamics CRM solution being constructed over the next 12 months as part of a dedicated Dynamics 365 development Scrum Team ranging from customisation and configuration through to development of plug-ins and custom workflow activities using C# .,C# .,,C#
+Work with business product owners and business analysts to elicit requirements & assist in developing design specifications to maximise the benefit of Dynamics 365 .,Work with business product owners and business analysts,Work with bysiness,UNDERSPECIFIED
+Work with business product owners and business analysts to elicit requirements & assist in developing design specifications to maximise the benefit of Dynamics 365 .,Work with business product owners and business analysts,Work with product owners,LABEL NOT PRESENT
+Work with business product owners and business analysts to elicit requirements & assist in developing design specifications to maximise the benefit of Dynamics 365 .,Work with business product owners and business analysts,Work with business analysts,LABEL NOT PRESENT
+Work with business product owners and business analysts to elicit requirements & assist in developing design specifications to maximise the benefit of Dynamics 365 .,elicit requirements,,analyse business requirements
+Work with business product owners and business analysts to elicit requirements & assist in developing design specifications to maximise the benefit of Dynamics 365 .,assist in developing design specifications,,draft design specifications
+Work with business product owners and business analysts to elicit requirements & assist in developing design specifications to maximise the benefit of Dynamics 365 .,maximise the benefit,,UNDERSPECIFIED
+Collaborate with other stakeholders/ end users in the software development lifecycle – PMs Business Analysts testing etc .,Collaborate with other stakeholders/ end users,,liaise with shareholders
+Collaborate with other stakeholders/ end users in the software development lifecycle – PMs Business Analysts testing etc .,software development lifecycle,,systems development life-cycle
+Experience in design development and delivery experience across the Dynamics 365 landscape ( historically Dynamics CRM ) Strong understanding of the Dynamics 365 platform core modules and technologies,design,,UNDERSPECIFIED
+Experience in design development and delivery experience across the Dynamics 365 landscape ( historically Dynamics CRM ) Strong understanding of the Dynamics 365 platform core modules and technologies,development,,UNDERSPECIFIED
+Experience in design development and delivery experience across the Dynamics 365 landscape ( historically Dynamics CRM ) Strong understanding of the Dynamics 365 platform core modules and technologies,Dynamics 365,,LABEL NOT PRESENT
+Experience in design development and delivery experience across the Dynamics 365 landscape ( historically Dynamics CRM ) Strong understanding of the Dynamics 365 platform core modules and technologies,Dynamics CRM ),,LABEL NOT PRESENT
+Experience in design development and delivery experience across the Dynamics 365 landscape ( historically Dynamics CRM ) Strong understanding of the Dynamics 365 platform core modules and technologies,delivery,,LABEL NOT PRESENT
+Experience in design development and delivery experience across the Dynamics 365 landscape ( historically Dynamics CRM ) Strong understanding of the Dynamics 365 platform core modules and technologies,Dynamics 365,,LABEL NOT PRESENT
+. NET development experience within an MS Dynamics 365 environment,. NET,,Visual Studio .NET
+. NET development experience within an MS Dynamics 365 environment,MS Dynamics 365,,LABEL NOT PRESENT
+Demonstrated technical aptitude for providing extraordinary customer service influence impact while problem-solving and building customer and partner relationships,technical aptitude,,provide technical expertise
+Demonstrated technical aptitude for providing extraordinary customer service influence impact while problem-solving and building customer and partner relationships,providing extraordinary customer service influence impact,,provide high quality customer service
+Demonstrated technical aptitude for providing extraordinary customer service influence impact while problem-solving and building customer and partner relationships,problem-solving,,solve problems
+Demonstrated technical aptitude for providing extraordinary customer service influence impact while problem-solving and building customer and partner relationships,building customer and partner relationships,building customer relationships,maintain relationship with customers
+Demonstrated technical aptitude for providing extraordinary customer service influence impact while problem-solving and building customer and partner relationships,building customer and partner relationships,building partner relationships,build business relationships
+Appreciation and familiarity of the wider Microsoft stack how they integrate with Dynamics 365 and understand how they can bring business value to our customers,Microsoft stack,,LABEL NOT PRESENT
+Appreciation and familiarity of the wider Microsoft stack how they integrate with Dynamics 365 and understand how they can bring business value to our customers,Dynamics 365,,LABEL NOT PRESENT
+Experience with development frameworks ( SCRUM/Agile ) SC Clearance Eligible,SCRUM/Agile ),,LABEL NOT PRESENT
+Experience with development frameworks ( SCRUM/Agile ) SC Clearance Eligible,SC Clearance Eligible,,LABEL NOT PRESENT
+In addition . NET WebAPI and SharePoint experience would be desirable,. NET WebAPI,,LABEL NOT PRESENT
+In addition . NET WebAPI and SharePoint experience would be desirable,SharePoint,,LABEL NOT PRESENT
+Industry: Vehicle Tracking,Vehicle Tracking,,LABEL NOT PRESENT
+azure . net c# azure-cosmosdb rest,azure,,LABEL NOT PRESENT
+azure . net c# azure-cosmosdb rest,. net,,Visual Studio .NET
+azure . net c# azure-cosmosdb rest,c#,,C#
+azure . net c# azure-cosmosdb rest,azure-cosmosdb,,LABEL NOT PRESENT
+azure . net c# azure-cosmosdb rest,rest,,LABEL NOT PRESENT
+Vehicle Tracking,Vehicle Tracking,,LABEL NOT PRESENT
+azure . net c# azure-cosmosdb rest,azure,,LABEL NOT PRESENT
+azure . net c# azure-cosmosdb rest,. net,,Visual Studio .NET
+azure . net c# azure-cosmosdb rest,c#,,C#
+azure . net c# azure-cosmosdb rest,azure-cosmosdb,,LABEL NOT PRESENT
+azure . net c# azure-cosmosdb rest,rest,,LABEL NOT PRESENT
+You will be experienced with all stages of the development cycle including analyzing deciding the best approach write code using the proper design patterns and unit tests .,analyzing,,UNDERSPECIFIED
+You will be experienced with all stages of the development cycle including analyzing deciding the best approach write code using the proper design patterns and unit tests .,deciding the best approach,,LABEL NOT PRESENT
+You will be experienced with all stages of the development cycle including analyzing deciding the best approach write code using the proper design patterns and unit tests .,development cycle,,systems development life-cycle
+You will be experienced with all stages of the development cycle including analyzing deciding the best approach write code using the proper design patterns and unit tests .,design patterns,,use software design patterns
+You will be experienced with all stages of the development cycle including analyzing deciding the best approach write code using the proper design patterns and unit tests .,write code,,LABEL NOT PRESENT
+You will be experienced with all stages of the development cycle including analyzing deciding the best approach write code using the proper design patterns and unit tests .,unit tests .,,execute software tests
+Design write code and modify . NET services and APIs according to,Design,,UNDERSPECIFIED
+Design write code and modify . NET services and APIs according to,write code,,LABEL NOT PRESENT
+Design write code and modify . NET services and APIs according to,. NET,,Visual Studio .NET
+Design write code and modify . NET services and APIs according to,modify . NET services and APIs,modify . NET services,LABEL NOT PRESENT
+Design write code and modify . NET services and APIs according to,modify . NET services and APIs,modify APIs,LABEL NOT PRESENT
+Design write code and modify . NET services and APIs according to,APIs,,LABEL NOT PRESENT
+Ensure to maintain strong Backend code quality with good practices .,maintain strong Backend code quality,,LABEL NOT PRESENT
+Knowledge on C# . NET Framework and . NET Core T-SQL ( MS SQL Server) Object-Oriented Design RESTful Services .,C#,,C#
+Knowledge on C# . NET Framework and . NET Core T-SQL ( MS SQL Server) Object-Oriented Design RESTful Services .,. NET Framework,,Visual Studio .NET
+Knowledge on C# . NET Framework and . NET Core T-SQL ( MS SQL Server) Object-Oriented Design RESTful Services .,. NET Core,,LABEL NOT PRESENT
+Knowledge on C# . NET Framework and . NET Core T-SQL ( MS SQL Server) Object-Oriented Design RESTful Services .,T-SQL ( MS SQL Server),,LABEL NOT PRESENT
+Knowledge on C# . NET Framework and . NET Core T-SQL ( MS SQL Server) Object-Oriented Design RESTful Services .,Object-Oriented Design,,object-oriented modelling
+Knowledge on C# . NET Framework and . NET Core T-SQL ( MS SQL Server) Object-Oriented Design RESTful Services .,RESTful Services .,,LABEL NOT PRESENT
+Azure Storage Azure EventHub Azure Functions Azure Data Lake Azure CosmosDB Security Principles .,Azure Storage,,LABEL NOT PRESENT
+Azure Storage Azure EventHub Azure Functions Azure Data Lake Azure CosmosDB Security Principles .,Azure EventHub,,LABEL NOT PRESENT
+Azure Storage Azure EventHub Azure Functions Azure Data Lake Azure CosmosDB Security Principles .,Azure Functions,,LABEL NOT PRESENT
+Azure Storage Azure EventHub Azure Functions Azure Data Lake Azure CosmosDB Security Principles .,Azure Data Lake,,LABEL NOT PRESENT
+Azure Storage Azure EventHub Azure Functions Azure Data Lake Azure CosmosDB Security Principles .,Azure CosmosDB,,LABEL NOT PRESENT
+Azure Storage Azure EventHub Azure Functions Azure Data Lake Azure CosmosDB Security Principles .,Security Principles .,,apply information security policies
+The Backend Developer must have a Computer Science Engineering or a related field and 2+ years of experience .,Computer Science,,computer science
+The Backend Developer must have a Computer Science Engineering or a related field and 2+ years of experience .,Engineering,,computer engineering
+Teamwork good attention to detail resourceful a knack for problem solving and good communication skills .,attention to detail,,attend to detail
+Teamwork good attention to detail resourceful a knack for problem solving and good communication skills .,resourceful,,LABEL NOT PRESENT
+Teamwork good attention to detail resourceful a knack for problem solving and good communication skills .,problem solving,,solve problems
+Teamwork good attention to detail resourceful a knack for problem solving and good communication skills .,communication skills .,,communication
+Verbal and written English comprehension is also required .,English,,English
+qa automation testing,qa,,quality assurance procedures
+qa automation testing,automation,,automation technology
+qa automation testing,testing,,UNDERSPECIFIED
+qa automation testing,qa,,quality assurance procedures
+qa automation testing,automation,,automation technology
+qa automation testing,testing,,UNDERSPECIFIED
+You’ll have an opportunity to work in an highly flexible and adaptable architecture allowing you to focus on delivering real quality in both process and product .,delivering real quality,,total quality control
+Planning test activities for each build cycle as well as for testing client configurations,Planning test activities for each build cycle,,LABEL NOT PRESENT
+Planning test activities for each build cycle as well as for testing client configurations,testing client configurations,,LABEL NOT PRESENT
+Reporting the results,Reporting the results,,UNDERSPECIFIED
+Incorporating that testing into automation,Incorporating that testing into automation,,tools for ICT test automation
+Reporting and documenting issues found,Reporting and documenting issues found,reporting issues found,analyse issues
+Reporting and documenting issues found,Reporting and documenting issues found,documenting issues found,provide documentation
+Following up on issues raised,Following up on issues raised,,create solutions to problems
+You need to be a strong communicator,communicator,,communication
+You can connect together complex issues,connect together complex issues,,think holistically
+You truly appreciate quality,appreciate quality,,manage quality
+Minimum of 3 years of testing experience,testing,,UNDERSPECIFIED
+Minimum of 3 years automation experience,automation,,automation technology
+Worked in a complex system ( nothing simple ) You will have stronger chances if you,complex system,,UNDERSPECIFIED
+You can code,code,,LABEL NOT PRESENT
+Industry: Financial Services,Financial Services,,offer financial services
+qa python automation,qa,,quality assurance procedures
+qa python automation,python,,Python (computer programming)
+qa python automation,automation,,automation technology
+Financial Services,Financial Services,,offer financial services
+qa python automation,qa,,quality assurance procedures
+qa python automation,python,,Python (computer programming)
+qa python automation,automation,,automation technology
+Candidates will be expected to perform both Automation and Functional Testing for our Middle office platform for Futures Options and OTC .,Automation,,tools for ICT test automation
+Candidates will be expected to perform both Automation and Functional Testing for our Middle office platform for Futures Options and OTC .,Functional Testing,,UNDERSPECIFIED
+This will entail regression/reconciliation and new feature testing of the platform during both Continuous Delivery and Monthly Release phases .,regression/reconciliation,,UNDERSPECIFIED
+This will entail regression/reconciliation and new feature testing of the platform during both Continuous Delivery and Monthly Release phases .,new feature testing,,LABEL NOT PRESENT
+This will entail regression/reconciliation and new feature testing of the platform during both Continuous Delivery and Monthly Release phases .,Continuous Delivery,,LABEL NOT PRESENT
+The role requires End to end automated testing with particular focus on data integrity performance and presentation quality .,End to end automated testing,,develop automated software tests
+The role requires End to end automated testing with particular focus on data integrity performance and presentation quality .,data integrity,,assess reliability of data
+The role requires End to end automated testing with particular focus on data integrity performance and presentation quality .,performance,,UNDERSPECIFIED
+The role requires End to end automated testing with particular focus on data integrity performance and presentation quality .,presentation quality .,,visual presentation techniques
+The role will require proficiency in all aspects of software development including:,software development,,oversee development of software
+• Ability to automate end to end test requirements using Java/Python,automate end to end test requirements,,develop automated software tests
+• Ability to automate end to end test requirements using Java/Python,Java/Python,,UNDERSPECIFIED
+• Schedule and Execute regression cycles daily,Schedule and Execute regression cycles,schedule regression cycles,LABEL NOT PRESENT
+• Schedule and Execute regression cycles daily,Schedule and Execute regression cycles,execute regression cycles,LABEL NOT PRESENT
+• Execution of Non-Functional regression testing to ensure the resiliency and performance of the system,Execution of Non-Functional regression testing,,LABEL NOT PRESENT
+• Execution of Non-Functional regression testing to ensure the resiliency and performance of the system,ensure the resiliency and performance of the system,ensure the resiliency of the system,LABEL NOT PRESENT
+• Execution of Non-Functional regression testing to ensure the resiliency and performance of the system,ensure the resiliency and performance of the system,ensure the performance of the system,monitor system performance
+• Understand operational processes in order to provide solutions which improve operational efficiency,provide solutions,,solve problems
+• Understand operational processes in order to provide solutions which improve operational efficiency,improve operational efficiency,,advise on efficiency improvements
+• Understand operational processes in order to provide solutions which improve operational efficiency,operational processes,,operations department processes
+• Experience of working in an Agile environment participating in sprint planning backlog refinement and retrospectives .,Agile,,Agile project management
+• Experience of working in an Agile environment participating in sprint planning backlog refinement and retrospectives .,participating in sprint planning backlog refinement,,LABEL NOT PRESENT
+• Experience of working in an Agile environment participating in sprint planning backlog refinement and retrospectives .,retrospectives .,,LABEL NOT PRESENT
+• Ability to understand and use efficient Defect management regular view of test coverage to identify gaps and provide improvements,Defect management,,LABEL NOT PRESENT
+• Ability to understand and use efficient Defect management regular view of test coverage to identify gaps and provide improvements,identify gaps,,identify problems
+• Ability to understand and use efficient Defect management regular view of test coverage to identify gaps and provide improvements,provide improvements,,provide improvement strategies
+• Ability to understand and use efficient Defect management regular view of test coverage to identify gaps and provide improvements,of test coverage,,LABEL NOT PRESENT
+• 5+ years of relevant IT/quality assurance work experience,IT/quality assurance,,quality assurance methodologies
+• Bachelor's degree in Computer Science or related field of study or equivalent relevant experience; demonstrated experience within the quality assurance / testing arena; demonstrated skills in quality assurance methods/processes and practices .,Bachelor's degree,,UNDERSPECIFIED
+• Bachelor's degree in Computer Science or related field of study or equivalent relevant experience; demonstrated experience within the quality assurance / testing arena; demonstrated skills in quality assurance methods/processes and practices .,Computer Science,,computer science
+• Bachelor's degree in Computer Science or related field of study or equivalent relevant experience; demonstrated experience within the quality assurance / testing arena; demonstrated skills in quality assurance methods/processes and practices .,quality assurance,,quality assurance methodologies
+• Bachelor's degree in Computer Science or related field of study or equivalent relevant experience; demonstrated experience within the quality assurance / testing arena; demonstrated skills in quality assurance methods/processes and practices .,testing arena;,,UNDERSPECIFIED
+• Bachelor's degree in Computer Science or related field of study or equivalent relevant experience; demonstrated experience within the quality assurance / testing arena; demonstrated skills in quality assurance methods/processes and practices .,quality assurance methods/processes,,quality assurance methodologies
+• Lifecycle principles and quality assurance processes and methodologies .,Lifecycle principles,,assess the life cycle of resources
+• Lifecycle principles and quality assurance processes and methodologies .,quality assurance processes,,quality assurance methodologies
+- on experience with automated testing using Java .,automated testing,,develop automated software tests
+- on experience with automated testing using Java .,Java .,,Java (computer programming)
+• Knowledge in testing of Mainframe and batch related applications is preferred .,testing of Mainframe,,LABEL NOT PRESENT
+• Very good understanding of test automation frameworks .,test automation frameworks .,,tools for ICT test automation
+• Must have excellent verbal and written skills being able to communicate effectively on both a technical and business level,communicate,,communication
+• Ability to work under pressure to resolve issues affecting the production services .,work under pressure,,cope with stress
+• Ability to work under pressure to resolve issues affecting the production services .,resolve issues affecting the production services .,,perform failure analysis of production process
+• Must have excellent work ethic and be detail oriented and be able to work independently .,detail oriented,,attend to detail
+• Must have excellent work ethic and be detail oriented and be able to work independently .,work independently .,,work independently
+• Core Java .,Core Java .,,Java (computer programming)
+• Basic UNIX scripting .,UNIX scripting .,,LABEL NOT PRESENT
+• SQL knowledge .,SQL,,SQL
+"• Continuous Integration ( CI ) exposure to GIT Jenkins,",Continuous Integration ( CI ),,LABEL NOT PRESENT
+"• Continuous Integration ( CI ) exposure to GIT Jenkins,",GIT,,LABEL NOT PRESENT
+"• Continuous Integration ( CI ) exposure to GIT Jenkins,","Jenkins,",,Jenkins (tools for software configuration management)
+• Mainframe/IBM iSeries exposure is advantageous as we will deal with iSeries Menu/End of day batches,Mainframe/IBM iSeries,,UNDERSPECIFIED
+• Mainframe/IBM iSeries exposure is advantageous as we will deal with iSeries Menu/End of day batches,iSeries Menu/End of day,,LABEL NOT PRESENT
+• Ability to read/publish on message bus,read/publish on message,,LABEL NOT PRESENT
+Industry: Financial Services,Financial Services,,offer financial services
+cloud java amazon-web-services,cloud,,cloud technologies
+cloud java amazon-web-services,java,,Java (computer programming)
+cloud java amazon-web-services,amazon-web-services,,LABEL NOT PRESENT
+Financial Services,Financial Services,,offer financial services
+cloud java amazon-web-services,cloud,,cloud technologies
+cloud java amazon-web-services,java,,Java (computer programming)
+cloud java amazon-web-services,amazon-web-services,,LABEL NOT PRESENT
+As a member of our <ORGANIZATION> <ORGANIZATION> <ORGANIZATION> we look first and foremost for people who are passionate about solving business problems through innovation and engineering practices .,solving business problems,,solve problems
+As a member of our <ORGANIZATION> <ORGANIZATION> <ORGANIZATION> we look first and foremost for people who are passionate about solving business problems through innovation and engineering practices .,innovation and engineering practices .,innovation practices,seek innovation in current practices
+As a member of our <ORGANIZATION> <ORGANIZATION> <ORGANIZATION> we look first and foremost for people who are passionate about solving business problems through innovation and engineering practices .,innovation and engineering practices .,engineering practices,engineering processes
+You'll be required to apply your depth of knowledge and expertise to all aspects of the software development lifecycle as well as partner continuously with your many stakeholders on a daily basis to stay focused on common goals .,apply your depth of knowledge and expertise,apply your depth of knowledge,UNDERSPECIFIED
+You'll be required to apply your depth of knowledge and expertise to all aspects of the software development lifecycle as well as partner continuously with your many stakeholders on a daily basis to stay focused on common goals .,apply your depth of knowledge and expertise,apply your expertise,UNDERSPECIFIED
+You'll be required to apply your depth of knowledge and expertise to all aspects of the software development lifecycle as well as partner continuously with your many stakeholders on a daily basis to stay focused on common goals .,partner continuously with your many stakeholders,,manage relationships with stakeholders
+You'll be required to apply your depth of knowledge and expertise to all aspects of the software development lifecycle as well as partner continuously with your many stakeholders on a daily basis to stay focused on common goals .,stay focused on common goals .,,identify with the company's goals
+You'll be required to apply your depth of knowledge and expertise to all aspects of the software development lifecycle as well as partner continuously with your many stakeholders on a daily basis to stay focused on common goals .,software development lifecycle,,systems development life-cycle
+* BS/BA degree or equivalent experience,BS/BA degree,,LABEL NOT PRESENT
+* Hands-on experience in Core Java Spring Boot and Microservices,Core Java,,Java (computer programming)
+* Hands-on experience in Core Java Spring Boot and Microservices,Spring Boot,,LABEL NOT PRESENT
+* Hands-on experience in Core Java Spring Boot and Microservices,Microservices,,LABEL NOT PRESENT
+* Experience with cloud technologies such as AWS and Kubernetes,AWS,,LABEL NOT PRESENT
+* Experience with cloud technologies such as AWS and Kubernetes,Kubernetes,,LABEL NOT PRESENT
+* Experience with Docker or similar container technologies,Docker,,LABEL NOT PRESENT
+Experience with cloud deployment tools like Spinnaker is beneficial,Spinnaker,,LABEL NOT PRESENT
+* Knowledge of best practices in DevOps and CI/CD automation,DevOps,,DevOps
+* Knowledge of best practices in DevOps and CI/CD automation,CI/CD automation,,LABEL NOT PRESENT
+Advanced knowledge of application data and infrastructure architecture disciplines,application data and infrastructure architecture disciplines,application architecture disciplines,architectural design
+Advanced knowledge of application data and infrastructure architecture disciplines,application data and infrastructure architecture disciplines,data architecture disciplines,manage ICT data architecture
+Advanced knowledge of application data and infrastructure architecture disciplines,application data and infrastructure architecture disciplines,infrastructure architecture disciplines,ICT infrastructure
+* Knowledge of industry-wide technology trends and best practices,industry-wide technology trends and best practices,industry-wide technology trends,monitor technology trends
+* Knowledge of industry-wide technology trends and best practices,industry-wide technology trends and best practices,industry-wide best practices,LABEL NOT PRESENT
+* Ability to work in large collaborative teams to achieve organizational goals,work in large collaborative teams,,work in teams
+* Ability to work in large collaborative teams to achieve organizational goals,achieve organizational goals,,meet commitments
+* Passionate about building an innovative culture,building an innovative culture,,think innovately
+* Understanding of software skills such as business analysis development maintenance and software improvement,business analysis,,business analysis
+* Understanding of software skills such as business analysis development maintenance and software improvement,development,,UNDERSPECIFIED
+* Understanding of software skills such as business analysis development maintenance and software improvement,maintenance,,UNDERSPECIFIED
+* Understanding of software skills such as business analysis development maintenance and software improvement,software improvement,,LABEL NOT PRESENT
+Industry: Artificial Intelligence Machine Learning Translation,Artificial Intelligence,,principles of artificial intelligence
+Industry: Artificial Intelligence Machine Learning Translation,Machine Learning,,machine learning
+Industry: Artificial Intelligence Machine Learning Translation,Translation,,UNDERSPECIFIED
+node.js javascript nestjs,node.js,,LABEL NOT PRESENT
+node.js javascript nestjs,javascript,,JavaScript
+node.js javascript nestjs,nestjs,,LABEL NOT PRESENT
+Artificial Intelligence Machine Learning Translation,Artificial Intelligence,,principles of artificial intelligence
+Artificial Intelligence Machine Learning Translation,Machine Learning,,machine learning
+Artificial Intelligence Machine Learning Translation,Translation,,UNDERSPECIFIED
+node.js javascript nestjs,node.js,,LABEL NOT PRESENT
+node.js javascript nestjs,javascript,,JavaScript
+node.js javascript nestjs,nestjs,,LABEL NOT PRESENT
+Your mission is to design and develop a micro-service architecture that integrates at its core the best engineering practises and the latest generation of machine translation research .,design and develop a micro-service architecture,design a micro-service architecture,design application interfaces
+Your mission is to design and develop a micro-service architecture that integrates at its core the best engineering practises and the latest generation of machine translation research .,design and develop a micro-service architecture,develop a micro-service architecture,LABEL NOT PRESENT
+Gather understand and prioritize requirements research potential solutions rapidly build prototypes and distill and communicate what was learned expected risks necessary resources and potential security concerns .,Gather understand and prioritize requirements,gather requirements,identify requirements of the work
+Gather understand and prioritize requirements research potential solutions rapidly build prototypes and distill and communicate what was learned expected risks necessary resources and potential security concerns .,Gather understand and prioritize requirements,understand requirements,interpret technical requirements
+Gather understand and prioritize requirements research potential solutions rapidly build prototypes and distill and communicate what was learned expected risks necessary resources and potential security concerns .,Gather understand and prioritize requirements,prioritize requirements,LABEL NOT PRESENT
+Gather understand and prioritize requirements research potential solutions rapidly build prototypes and distill and communicate what was learned expected risks necessary resources and potential security concerns .,research potential solutions,,create solutions to problems
+Gather understand and prioritize requirements research potential solutions rapidly build prototypes and distill and communicate what was learned expected risks necessary resources and potential security concerns .,rapidly build prototypes,,design prototypes
+Gather understand and prioritize requirements research potential solutions rapidly build prototypes and distill and communicate what was learned expected risks necessary resources and potential security concerns .,distill and communicate what was learned expected risks necessary resources,distill what was learned,LABEL NOT PRESENT
+Gather understand and prioritize requirements research potential solutions rapidly build prototypes and distill and communicate what was learned expected risks necessary resources and potential security concerns .,distill and communicate what was learned expected risks necessary resources,distill expected risks,assess risk factors
+Gather understand and prioritize requirements research potential solutions rapidly build prototypes and distill and communicate what was learned expected risks necessary resources and potential security concerns .,distill and communicate what was learned expected risks necessary resources,distill necessary resources,assess project resource needs
+Gather understand and prioritize requirements research potential solutions rapidly build prototypes and distill and communicate what was learned expected risks necessary resources and potential security concerns .,distill and communicate what was learned expected risks necessary resources,communicate what was learned,communicate analytical insights
+Gather understand and prioritize requirements research potential solutions rapidly build prototypes and distill and communicate what was learned expected risks necessary resources and potential security concerns .,distill and communicate what was learned expected risks necessary resources,communicate expected risks,communicate performance aspects
+Gather understand and prioritize requirements research potential solutions rapidly build prototypes and distill and communicate what was learned expected risks necessary resources and potential security concerns .,distill and communicate what was learned expected risks necessary resources,communicate necessary resources,LABEL NOT PRESENT
+Gather understand and prioritize requirements research potential solutions rapidly build prototypes and distill and communicate what was learned expected risks necessary resources and potential security concerns .,security concerns .,,security threats
+Provide high-level technical design strategy roadmap development and technical architecture related to our existing and new services and related infrastructure used by our front-end engineers .,strategy roadmap development,,LABEL NOT PRESENT
+Provide high-level technical design strategy roadmap development and technical architecture related to our existing and new services and related infrastructure used by our front-end engineers .,Provide high-level technical design,,create technical plans
+Provide high-level technical design strategy roadmap development and technical architecture related to our existing and new services and related infrastructure used by our front-end engineers .,technical architecture,,information architecture
+Assure that our architectures are consistent with industry best practices including scalability availability maintainability and flexibility .,industry best practices,,LABEL NOT PRESENT
+Assure that our architectures are consistent with industry best practices including scalability availability maintainability and flexibility .,scalability,,LABEL NOT PRESENT
+Assure that our architectures are consistent with industry best practices including scalability availability maintainability and flexibility .,availability,,UNDERSPECIFIED
+Assure that our architectures are consistent with industry best practices including scalability availability maintainability and flexibility .,maintainability,,LABEL NOT PRESENT
+Assure that our architectures are consistent with industry best practices including scalability availability maintainability and flexibility .,Assure that our architectures are consistent,,software architecture models
+Assure that our architectures are consistent with industry best practices including scalability availability maintainability and flexibility .,flexibility .,,LABEL NOT PRESENT
+Communicate strategies and processes around our services to cross-functional groups .,Communicate strategies and processes,Communicate strategies,LABEL NOT PRESENT
+Communicate strategies and processes around our services to cross-functional groups .,Communicate strategies and processes,Communicate processes,LABEL NOT PRESENT
+Helping us to select the best talent to join us in our Product Team ( code reviews and participation in interviews) .,select the best talent to join,,identify talent
+Onboard new colleagues .,Onboard new colleagues .,,train crew members
+You have professional working experience as a software engineer using Javascript / TypeScript / Node.js / NestJS and in writing highly tested software ( unit testing integration testing) .,Javascript,,JavaScript
+You have professional working experience as a software engineer using Javascript / TypeScript / Node.js / NestJS and in writing highly tested software ( unit testing integration testing) .,TypeScript,,TypeScript
+You have professional working experience as a software engineer using Javascript / TypeScript / Node.js / NestJS and in writing highly tested software ( unit testing integration testing) .,Node.js,,LABEL NOT PRESENT
+You have professional working experience as a software engineer using Javascript / TypeScript / Node.js / NestJS and in writing highly tested software ( unit testing integration testing) .,NestJS,,LABEL NOT PRESENT
+You have professional working experience as a software engineer using Javascript / TypeScript / Node.js / NestJS and in writing highly tested software ( unit testing integration testing) .,unit testing,,perform software unit testing
+You have professional working experience as a software engineer using Javascript / TypeScript / Node.js / NestJS and in writing highly tested software ( unit testing integration testing) .,writing highly tested software,,develop automated software tests
+You have professional working experience as a software engineer using Javascript / TypeScript / Node.js / NestJS and in writing highly tested software ( unit testing integration testing) .,integration testing),,execute integration testing
+You have experience defining and modelling a consumable API .,defining and modelling a consumable API .,defining a consumable API,LABEL NOT PRESENT
+You have experience defining and modelling a consumable API .,defining and modelling a consumable API .,modelling a consumable API,design application interfaces
+You work autonomously are energized by missions and goals more than a specific list of tasks .,work autonomously,,work independently
+You work autonomously are energized by missions and goals more than a specific list of tasks .,energized by missions and goals,energized by missions,identify with the company's goals
+You work autonomously are energized by missions and goals more than a specific list of tasks .,energized by missions and goals,energized by goals,identify with the company's goals
+Experienced in designing analyzing optimising code and troubleshooting large-scale distributed systems .,designing,,UNDERSPECIFIED
+Experienced in designing analyzing optimising code and troubleshooting large-scale distributed systems .,analyzing,,UNDERSPECIFIED
+Experienced in designing analyzing optimising code and troubleshooting large-scale distributed systems .,optimising code,,LABEL NOT PRESENT
+Experienced in designing analyzing optimising code and troubleshooting large-scale distributed systems .,troubleshooting large-scale distributed systems .,,perform ICT troubleshooting
+python django docker orm sqlalchemy,python,,Python (computer programming)
+python django docker orm sqlalchemy,django,,LABEL NOT PRESENT
+python django docker orm sqlalchemy,docker,,LABEL NOT PRESENT
+python django docker orm sqlalchemy,orm,,LABEL NOT PRESENT
+python django docker orm sqlalchemy,sqlalchemy,,LABEL NOT PRESENT
+python django docker orm sqlalchemy,python,,Python (computer programming)
+python django docker orm sqlalchemy,django,,LABEL NOT PRESENT
+python django docker orm sqlalchemy,docker,,LABEL NOT PRESENT
+python django docker orm sqlalchemy,orm,,LABEL NOT PRESENT
+python django docker orm sqlalchemy,sqlalchemy,,LABEL NOT PRESENT
+Lead the design & implementation of our core back-end services which allow us to manage the inventory of all our fridges in real time orchestrate the fresh supply chain and sell products to our end customers .,Lead the design & implementation,lead the design,supervise work on design planning
+Lead the design & implementation of our core back-end services which allow us to manage the inventory of all our fridges in real time orchestrate the fresh supply chain and sell products to our end customers .,Lead the design & implementation,lead the implementation,LABEL NOT PRESENT
+Lead the design & implementation of our core back-end services which allow us to manage the inventory of all our fridges in real time orchestrate the fresh supply chain and sell products to our end customers .,back-end services,,LABEL NOT PRESENT
+Drive the implementation of new forecasting algorithms and tooling which improve decision making for the Revenue Management team .,Drive the implementation of new forecasting algorithms and tooling,Drive the implementation of new forecasting algorithms,financial forecasting
+Drive the implementation of new forecasting algorithms and tooling which improve decision making for the Revenue Management team .,Drive the implementation of new forecasting algorithms and tooling,Drive the implementation of new tooling,LABEL NOT PRESENT
+High availability: our systems run all day - you take responsibility for live productions systems with 24x7 uptime .,responsibility for live productions systems,,LABEL NOT PRESENT
+Perform developer tests on your own code and peer code reviews as well as prepare strong documentation of your work .,Perform developer tests,,execute software tests
+Perform developer tests on your own code and peer code reviews as well as prepare strong documentation of your work .,peer code reviews,,conduct ICT code review
+Perform developer tests on your own code and peer code reviews as well as prepare strong documentation of your work .,prepare strong documentation,,provide technical documentation
+Develop tools for our internal teams ( sales support operations finance ) to help run the business more efficiently .,Develop tools,,LABEL NOT PRESENT
+Continuously improve and maintain components & systems to ensure its functionality scalability uptime and security .,improve and maintain components & systems,improve components,LABEL NOT PRESENT
+Continuously improve and maintain components & systems to ensure its functionality scalability uptime and security .,improve and maintain components & systems,improve systems,LABEL NOT PRESENT
+Continuously improve and maintain components & systems to ensure its functionality scalability uptime and security .,improve and maintain components & systems,maintain components,design engineering components
+Continuously improve and maintain components & systems to ensure its functionality scalability uptime and security .,improve and maintain components & systems,maintain systems,UNDERSPECIFIED
+Python is your language - you are an experienced software developer with broad back-end programming skills,back-end programming,,computer programming
+Python is your language - you are an experienced software developer with broad back-end programming skills,Python,,Python (computer programming)
+Strong familiarity with database structures webapp design in Python and ORMs ( Django ORM SQLAlchemy ) and can adapt them as required,database structures,,database management systems
+Strong familiarity with database structures webapp design in Python and ORMs ( Django ORM SQLAlchemy ) and can adapt them as required,webapp design,,LABEL NOT PRESENT
+Strong familiarity with database structures webapp design in Python and ORMs ( Django ORM SQLAlchemy ) and can adapt them as required,Python,,Python (computer programming)
+Strong familiarity with database structures webapp design in Python and ORMs ( Django ORM SQLAlchemy ) and can adapt them as required,ORMs,,LABEL NOT PRESENT
+Strong familiarity with database structures webapp design in Python and ORMs ( Django ORM SQLAlchemy ) and can adapt them as required,Django,,LABEL NOT PRESENT
+Strong familiarity with database structures webapp design in Python and ORMs ( Django ORM SQLAlchemy ) and can adapt them as required,ORM,,LABEL NOT PRESENT
+Strong familiarity with database structures webapp design in Python and ORMs ( Django ORM SQLAlchemy ) and can adapt them as required,SQLAlchemy ),,LABEL NOT PRESENT
+Significant experience designing & implementing distributed system architectures and APIs,designing & implementing distributed system architectures and APIs,designing distributed system architectures,distributed computing
+Significant experience designing & implementing distributed system architectures and APIs,designing & implementing distributed system architectures and APIs,implementing distributed system architectures,distributed computing
+Significant experience designing & implementing distributed system architectures and APIs,designing & implementing distributed system architectures and APIs,designing APIs,design application interfaces
+Significant experience designing & implementing distributed system architectures and APIs,designing & implementing distributed system architectures and APIs,implementing APIs,design application interfaces
+You can work with docker to deploy your applications,deploy your applications,,LABEL NOT PRESENT
+You can work with docker to deploy your applications,docker,,LABEL NOT PRESENT
+Probably a university degree in Computer Engineering or equivalent .,Computer Engineering,,computer engineering
+Manage individual priorities deadlines and deliverables,Manage individual priorities deadlines and deliverables,manage individual priorities,manage work
+Manage individual priorities deadlines and deliverables,Manage individual priorities deadlines and deliverables,manage individual deadlines,meet deadlines
+Manage individual priorities deadlines and deliverables,Manage individual priorities deadlines and deliverables,manage individual deliverables,manage work
+Contribute to engineering efforts from planning and organization to execution and delivery to solve complex engineering problems,Contribute to engineering efforts,,engineering processes
+Contribute to engineering efforts from planning and organization to execution and delivery to solve complex engineering problems,solve complex engineering problems,,solve technical problems
+A serious get-things-done attitude,get-things-done attitude,,show determination
+You identify shortcomings quickly and own the process to making them better,identify shortcomings quickly,,identify problems
+Affinity for statistical modeling and optimization problems,statistical modeling,,scientific modelling
+Affinity for statistical modeling and optimization problems,optimization problems,,LABEL NOT PRESENT
+Openness to work with many different stakeholders in the organization,work with many different stakeholders,,liaise with shareholders
+You are fluent in written and spoken English,English,,English
+<LOCATION> or <LOCATION> work permit is a must,<LOCATION> or <LOCATION> work permit,,UNDERSPECIFIED
+Industry: Information Technology Online Travel,Information Technology,,computer technology
+Industry: Information Technology Online Travel,Online Travel,,LABEL NOT PRESENT
+java web-services python distributed-system amazon-web-services,java,,Java (computer programming)
+java web-services python distributed-system amazon-web-services,web-services,,LABEL NOT PRESENT
+java web-services python distributed-system amazon-web-services,python,,Python (computer programming)
+java web-services python distributed-system amazon-web-services,distributed-system,,distributed computing
+java web-services python distributed-system amazon-web-services,amazon-web-services,,LABEL NOT PRESENT
+Information Technology Online Travel,Information Technology,,use IT tools
+Information Technology Online Travel,Online Travel,,LABEL NOT PRESENT
+java web-services python distributed-system amazon-web-services,java,,Java (computer programming)
+java web-services python distributed-system amazon-web-services,web-services,,LABEL NOT PRESENT
+java web-services python distributed-system amazon-web-services,python,,Python (computer programming)
+java web-services python distributed-system amazon-web-services,distributed-system,,distributed computing
+java web-services python distributed-system amazon-web-services,amazon-web-services,,LABEL NOT PRESENT
+Java Python Docker and AWS – you’ll be up to speed with at least two of them and keen to build your knowledge on them all .,Java,,Java (computer programming)
+Java Python Docker and AWS – you’ll be up to speed with at least two of them and keen to build your knowledge on them all .,Python,,Python (computer programming)
+Java Python Docker and AWS – you’ll be up to speed with at least two of them and keen to build your knowledge on them all .,Docker,,LABEL NOT PRESENT
+Java Python Docker and AWS – you’ll be up to speed with at least two of them and keen to build your knowledge on them all .,AWS,,LABEL NOT PRESENT
+Our Distributed workflow includes Hadoop/Spark SQL Airflow and Jupyter .,Hadoop/Spark,,LABEL NOT PRESENT
+Our Distributed workflow includes Hadoop/Spark SQL Airflow and Jupyter .,SQL,,SQL
+Our Distributed workflow includes Hadoop/Spark SQL Airflow and Jupyter .,Airflow,,LABEL NOT PRESENT
+Our Distributed workflow includes Hadoop/Spark SQL Airflow and Jupyter .,Jupyter .,,LABEL NOT PRESENT
+So as a skilled senior software engineer your sound tech experience of Agile/Lean methodologies will be vital for continuous improvement .,Agile/Lean,,UNDERSPECIFIED
+You always base your decisions on solid data and metrics .,base your decisions on solid data and metrics .,,LABEL NOT PRESENT
+But while this technical talent is essential you’ll also need the drive to produce outstanding work .,produce outstanding work .,,LABEL NOT PRESENT
+So you’ll break challenges into bite-size tasks mentor team mates and always demand quality .,break challenges into bite-size tasks,,LABEL NOT PRESENT
+So you’ll break challenges into bite-size tasks mentor team mates and always demand quality .,mentor team mates,,mentor individuals
+So you’ll break challenges into bite-size tasks mentor team mates and always demand quality .,demand quality .,,manage quality
+It involves technical challenges and the latest technology from machine learning and cloud services to world-class APIs .,machine learning,,machine learning
+It involves technical challenges and the latest technology from machine learning and cloud services to world-class APIs .,cloud services,,cloud technologies
+It involves technical challenges and the latest technology from machine learning and cloud services to world-class APIs .,APIs .,,design application interfaces
+Working in our global team you’ll be in charge of developing a whole range of key product features .,developing a whole range of key product features .,,develop product design
+That means defining and implementing services that make up a vital sub-system in your area .,defining and implementing services,defining services,identify service requirements
+That means defining and implementing services that make up a vital sub-system in your area .,defining and implementing services,implementing services,UNDERSPECIFIED
+As you work you’ll collaborate with product engineers and influence their thinking .,collaborate with product engineers,,collaborate with engineers
+Though you’ll be accountable for your own projects and trusted to deliver you’ll also form part of a broader team that takes collective responsibility for making success happen .,accountable for your own projects,,accept own accountability
+Though you’ll be accountable for your own projects and trusted to deliver you’ll also form part of a broader team that takes collective responsibility for making success happen .,trusted to deliver,,assume responsibility
+Though you’ll be accountable for your own projects and trusted to deliver you’ll also form part of a broader team that takes collective responsibility for making success happen .,form part of a broader team,,LABEL NOT PRESENT
+Though you’ll be accountable for your own projects and trusted to deliver you’ll also form part of a broader team that takes collective responsibility for making success happen .,takes collective responsibility,,assume responsibility
+Though you’ll be accountable for your own projects and trusted to deliver you’ll also form part of a broader team that takes collective responsibility for making success happen .,making success happen .,,show determination
+Industry: Mobile Application,Mobile Application,,LABEL NOT PRESENT
+android mobile kotlin,android,,Android (mobile operating systems)
+android mobile kotlin,mobile,,UNDERSPECIFIED
+android mobile kotlin,kotlin,,LABEL NOT PRESENT
+You architect build and maintain our native Android app .,architect,,LABEL NOT PRESENT
+You architect build and maintain our native Android app .,build,,UNDERSPECIFIED
+You architect build and maintain our native Android app .,maintain,,LABEL NOT PRESENT
+You love to tackle challenges and find creative ways to implement new features that fit in smoothly – using the best available technologies like Kotlin RxJava or Couroutines .,tackle challenges,,cope with challenging demands
+You love to tackle challenges and find creative ways to implement new features that fit in smoothly – using the best available technologies like Kotlin RxJava or Couroutines .,Kotlin,,LABEL NOT PRESENT
+You love to tackle challenges and find creative ways to implement new features that fit in smoothly – using the best available technologies like Kotlin RxJava or Couroutines .,RxJava,,LABEL NOT PRESENT
+You love to tackle challenges and find creative ways to implement new features that fit in smoothly – using the best available technologies like Kotlin RxJava or Couroutines .,find creative ways to implement new features,,develop creative ideas
+You love to tackle challenges and find creative ways to implement new features that fit in smoothly – using the best available technologies like Kotlin RxJava or Couroutines .,Couroutines .,,LABEL NOT PRESENT
+Share your knowledge and keep up the high level of quality in our team through reviews pairing and mentoring .,Share your knowledge,,promote the transfer of knowledge
+Share your knowledge and keep up the high level of quality in our team through reviews pairing and mentoring .,keep up the high level of quality,,manage quality
+Share your knowledge and keep up the high level of quality in our team through reviews pairing and mentoring .,reviews,,LABEL NOT PRESENT
+Share your knowledge and keep up the high level of quality in our team through reviews pairing and mentoring .,pairing,,LABEL NOT PRESENT
+Share your knowledge and keep up the high level of quality in our team through reviews pairing and mentoring .,mentoring .,,coaching techniques
+Leave your footprint and focus on a top-notch user experience in our app to further grow together with us!,focus on a top-notch user experience,,manage the customer experience
+Make the app context aware with the help of the Google Awareness API,Make the app context aware,,LABEL NOT PRESENT
+Make the app context aware with the help of the Google Awareness API,Google Awareness API,,LABEL NOT PRESENT
+Improve of our sync framework which enables our users to perform most actions even while offline,Improve of our sync framework,,software frameworks
+Build features tightly integrated with location based services,Build features,,UNDERSPECIFIED
+Build features tightly integrated with location based services,location based services,,use geographic information systems
+Transfer your excellent intuition for design UI and UX to our app,UI,,UNDERSPECIFIED
+Transfer your excellent intuition for design UI and UX to our app,design,,UNDERSPECIFIED
+Transfer your excellent intuition for design UI and UX to our app,UX,,UNDERSPECIFIED
+Passionate about mobile technologies and mobile wallets feeling related to our vision,mobile technologies,,LABEL NOT PRESENT
+Passionate about mobile technologies and mobile wallets feeling related to our vision,mobile wallets,,LABEL NOT PRESENT
+In-depth knowledge of the Android SDK and rock-solid coding skills with Kotlin,Android SDK,,LABEL NOT PRESENT
+In-depth knowledge of the Android SDK and rock-solid coding skills with Kotlin,coding,,computer programming
+In-depth knowledge of the Android SDK and rock-solid coding skills with Kotlin,Kotlin,,LABEL NOT PRESENT
+Love for solving technical challenges with other talented teammates,solving technical challenges,,solve technical problems
+Experience with iOS app or backend development is a plus,iOS app,,UNDERSPECIFIED
+Experience with iOS app or backend development is a plus,backend development,,LABEL NOT PRESENT
+Degree in Computer Science similar technical field of study or equivalent practical experience,Degree,,LABEL NOT PRESENT
+Degree in Computer Science similar technical field of study or equivalent practical experience,Computer Science,,computer science
+Personal projects or contribution to open source projects in the Android ecosystem,Android,,Android (mobile operating systems)
+Interest in or experience with payment loyalty and shopping,payment,,LABEL NOT PRESENT
+Interest in or experience with payment loyalty and shopping,loyalty,,demonstrate loyalty
+Interest in or experience with payment loyalty and shopping,shopping,,LABEL NOT PRESENT
+Industry: eCommerce Internet Marketing,eCommerce,,e-commerce systems
+Industry: eCommerce Internet Marketing,Internet Marketing,,digital marketing techniques
+java spring node.js reactjs,java,,Java (computer programming)
+java spring node.js reactjs,spring,,LABEL NOT PRESENT
+java spring node.js reactjs,node.js,,LABEL NOT PRESENT
+java spring node.js reactjs,reactjs,,LABEL NOT PRESENT
+Contribute to the team's work with high-quality well-tested and scalable code,high-quality well-tested and scalable code,high-quality code,manage quality
+Contribute to the team's work with high-quality well-tested and scalable code,high-quality well-tested and scalable code,well-tested code,execute software tests
+Contribute to the team's work with high-quality well-tested and scalable code,high-quality well-tested and scalable code,scalable code,LABEL NOT PRESENT
+Ensure code quality and maintainability by evolving architecture and tech stack code reviews refactoring standards and improving build and test systems,evolving architecture and tech stack,evolving architecture,UNDERSPECIFIED
+Ensure code quality and maintainability by evolving architecture and tech stack code reviews refactoring standards and improving build and test systems,evolving architecture and tech stack,evolving tech stack,UNDERSPECIFIED
+Ensure code quality and maintainability by evolving architecture and tech stack code reviews refactoring standards and improving build and test systems,code reviews,,conduct ICT code review
+Ensure code quality and maintainability by evolving architecture and tech stack code reviews refactoring standards and improving build and test systems,refactoring,,UNDERSPECIFIED
+Ensure code quality and maintainability by evolving architecture and tech stack code reviews refactoring standards and improving build and test systems,Ensure code quality and maintainability,Ensure code quality,quality assurance procedures
+Ensure code quality and maintainability by evolving architecture and tech stack code reviews refactoring standards and improving build and test systems,Ensure code quality and maintainability,ensure code maintainability,LABEL NOT PRESENT
+Ensure code quality and maintainability by evolving architecture and tech stack code reviews refactoring standards and improving build and test systems,improving build and test systems,,UNDERSPECIFIED
+Ensure code quality and maintainability by evolving architecture and tech stack code reviews refactoring standards and improving build and test systems,standards,,quality standards
+Coach guide and mentor teams on architecture and technology choices,architecture,,architectural design
+Coach guide and mentor teams on architecture and technology choices,Coach guide and mentor teams,coach teams,lead a team
+Coach guide and mentor teams on architecture and technology choices,Coach guide and mentor teams,guide teams,lead a team
+Coach guide and mentor teams on architecture and technology choices,Coach guide and mentor teams,mentor teams,lead a team
+Coach guide and mentor teams on architecture and technology choices,technology,,UNDERSPECIFIED
+Collaborate with the other architects and senior devs on identifying managing and minimizing technical debt in the platform,Collaborate,,UNDERSPECIFIED
+Collaborate with the other architects and senior devs on identifying managing and minimizing technical debt in the platform,identifying managing and minimizing technical debt,identifying technical debt,identify technological needs
+Collaborate with the other architects and senior devs on identifying managing and minimizing technical debt in the platform,identifying managing and minimizing technical debt,managing technical debt,LABEL NOT PRESENT
+Collaborate with the other architects and senior devs on identifying managing and minimizing technical debt in the platform,identifying managing and minimizing technical debt,minimizing technical debt,manage technical resources stock
+Share architecture knowledge findings and standard methodologies with the teams and other architects within <ORGANIZATION>,Share architecture knowledge findings and standard methodologies,share architecture knowledge findings,LABEL NOT PRESENT
+Share architecture knowledge findings and standard methodologies with the teams and other architects within <ORGANIZATION>,Share architecture knowledge findings and standard methodologies,share architecture standard methodologies,UNDERSPECIFIED
+Deep knowledge of Java Spring Framework web technologies and ( non- ) relational databases ( bonus: node.js react ) Advanced understanding of design implementation and operation of distributed services and APIs,Java,,Java (computer programming)
+Deep knowledge of Java Spring Framework web technologies and ( non- ) relational databases ( bonus: node.js react ) Advanced understanding of design implementation and operation of distributed services and APIs,Spring Framework,,LABEL NOT PRESENT
+Deep knowledge of Java Spring Framework web technologies and ( non- ) relational databases ( bonus: node.js react ) Advanced understanding of design implementation and operation of distributed services and APIs,web technologies,,web programming
+Deep knowledge of Java Spring Framework web technologies and ( non- ) relational databases ( bonus: node.js react ) Advanced understanding of design implementation and operation of distributed services and APIs,( non- ) relational databases,,database
+Deep knowledge of Java Spring Framework web technologies and ( non- ) relational databases ( bonus: node.js react ) Advanced understanding of design implementation and operation of distributed services and APIs,node.js,,LABEL NOT PRESENT
+Deep knowledge of Java Spring Framework web technologies and ( non- ) relational databases ( bonus: node.js react ) Advanced understanding of design implementation and operation of distributed services and APIs,react ),,LABEL NOT PRESENT
+Deep knowledge of Java Spring Framework web technologies and ( non- ) relational databases ( bonus: node.js react ) Advanced understanding of design implementation and operation of distributed services and APIs,design implementation and operation of distributed services and APIs,design of distributed services,distributed directory information services
+Deep knowledge of Java Spring Framework web technologies and ( non- ) relational databases ( bonus: node.js react ) Advanced understanding of design implementation and operation of distributed services and APIs,design implementation and operation of distributed services and APIs,implementation of distributed services,distributed directory information services
+Deep knowledge of Java Spring Framework web technologies and ( non- ) relational databases ( bonus: node.js react ) Advanced understanding of design implementation and operation of distributed services and APIs,design implementation and operation of distributed services and APIs,operation of distributed services,LABEL NOT PRESENT
+Deep knowledge of Java Spring Framework web technologies and ( non- ) relational databases ( bonus: node.js react ) Advanced understanding of design implementation and operation of distributed services and APIs,design implementation and operation of distributed services and APIs,design of APIs,design application interfaces
+Deep knowledge of Java Spring Framework web technologies and ( non- ) relational databases ( bonus: node.js react ) Advanced understanding of design implementation and operation of distributed services and APIs,design implementation and operation of distributed services and APIs,implementation of APIs,design application interfaces
+Deep knowledge of Java Spring Framework web technologies and ( non- ) relational databases ( bonus: node.js react ) Advanced understanding of design implementation and operation of distributed services and APIs,design implementation and operation of distributed services and APIs,operation of APIs,LABEL NOT PRESENT
+Strategic thinker with excellent analytical and critical thinking skills .,Strategic thinker,,apply strategic thinking
+Strategic thinker with excellent analytical and critical thinking skills .,analytical,,think analytically
+Strategic thinker with excellent analytical and critical thinking skills .,critical thinking,,think critically
+Able to frame problems drive teams to collect data guide the analysis and to present the data to influence leadership,frame problems,,solve problems
+Able to frame problems drive teams to collect data guide the analysis and to present the data to influence leadership,drive teams,,manage a team
+Able to frame problems drive teams to collect data guide the analysis and to present the data to influence leadership,collect data,,gather data
+Able to frame problems drive teams to collect data guide the analysis and to present the data to influence leadership,guide the analysis,,LABEL NOT PRESENT
+Able to frame problems drive teams to collect data guide the analysis and to present the data to influence leadership,present the data,,present reports
+Able to frame problems drive teams to collect data guide the analysis and to present the data to influence leadership,influence leadership,,LABEL NOT PRESENT
+Passion for agile software development product discovery and continuous deployment,agile software development,,Agile development
+Passion for agile software development product discovery and continuous deployment,product discovery,,develop new products
+Passion for agile software development product discovery and continuous deployment,continuous deployment,,LABEL NOT PRESENT
+High aspiration for quality balanced with a good sense of pragmatism,aspiration for quality,,manage quality
+High aspiration for quality balanced with a good sense of pragmatism,sense of pragmatism,,LABEL NOT PRESENT
+You understand quality assurance as a task of the entire team to build the best experience to the users,quality assurance,,quality assurance methodologies
+Independently and quick adoption of new technologies and concepts,quick adoption of new technologies,,emergent technologies
+Willingness to speak at conferences and engage in the community are a strong plus,speak at conferences,,address an audience
+Willingness to speak at conferences and engage in the community are a strong plus,engage in the community,,communicate with target community
+Effective oral and written English communication skills,communication,,communication
+Effective oral and written English communication skills,English,,English
